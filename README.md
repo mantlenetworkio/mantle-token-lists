@@ -1,6 +1,6 @@
-# Optimism Token List
+# Mantle Token List
 
-The Optimism token list is used as the source of truth for the [Optimism Gateway](https://gateway.optimism.io/) which is the main portal for moving assets between Layer 1 and Layer 2.
+The Mantle token list is used as the source of truth for the [Mantle Gateway](https://bridge.testnet.mantlenetwork.io/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
 
 ## Review process and merge criteria
 
@@ -61,13 +61,13 @@ Add a file to your folder called `data.json` with the following format:
     "ethereum": {
       "address": "0x1234123412341234123412341234123412341234"
     },
-    "optimism": {
+    "mantle": {
       "address": "0x2345234523452345234523452345234523452345"
     },
     "goerli": {
       "address": "0x5678567856785678567856785678567856785678"
     },
-    "optimism-goerli": {
+    "mantle-goerli": {
       "address": "0x6789678967896789678967896789678967896789"
     }
   }
@@ -84,7 +84,7 @@ We currently accept tokens on the following chains:
 
 #### Non-bridgable tokens
 
-If you would like to add your token to this token list but you do not want your token to be included on the Optimism Bridge app, please include the `nobridge` option.
+If you would like to add your token to this token list but you do not want your token to be included on the Mantle Bridge app, please include the `nobridge` option.
 
 ```json
 {

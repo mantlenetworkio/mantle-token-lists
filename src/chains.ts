@@ -14,10 +14,10 @@ export const NETWORK_DATA = {
     name: 'Goerli',
     provider: new ethers.providers.InfuraProvider('goerli'),
     layer: 1,
-    pair: 'goerli-test',
+    pair: 'mantle-test',
     bridge: '0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821',
   },
-  'goerli-test': {
+  'mantle-test': {
     id: 5001,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
