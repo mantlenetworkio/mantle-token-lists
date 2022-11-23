@@ -111,39 +111,18 @@ export const TOKEN_DATA_SCHEMA = {
         {
           type: 'object',
           properties: {
-            optimism: TOKEN_SCHEMA,
-            'optimism-goerli': TOKEN_SCHEMA,
+            'goerli-test': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['optimism', 'optimism-goerli'],
+          required: ['goerli-test'],
         },
         {
           type: 'object',
           properties: {
-            optimism: TOKEN_SCHEMA,
-            'optimism-kovan': TOKEN_SCHEMA,
-            'optimism-goerli': TOKEN_SCHEMA,
+            'goerli-test': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['optimism', 'optimism-kovan', 'optimism-goerli'],
-        },
-        {
-          type: 'object',
-          properties: {
-            ethereum: TOKEN_SCHEMA,
-            optimism: TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['ethereum', 'optimism'],
-        },
-        {
-          type: 'object',
-          properties: {
-            kovan: TOKEN_SCHEMA,
-            'optimism-kovan': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['kovan', 'optimism-kovan'],
+          required: ['goerli-test'],
         },
         {
           type: 'object',
@@ -152,7 +131,7 @@ export const TOKEN_DATA_SCHEMA = {
             'optimism-goerli': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['goerli', 'optimism-goerli'],
+          required: ['goerli', 'goerli-test'],
         },
         {
           type: 'object',
@@ -160,7 +139,7 @@ export const TOKEN_DATA_SCHEMA = {
             optimism: TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['optimism'],
+          required: ['Mantle'],
         },
       ],
     },

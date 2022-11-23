@@ -6,7 +6,7 @@ import {
   BaseServiceV2,
   ExpressRouter,
   validators,
-} from '@eth-optimism/common-ts'
+} from '@mantleio/common-ts'
 import { Octokit } from 'octokit'
 import extract from 'extract-zip'
 import uuid from 'uuid'
@@ -70,8 +70,8 @@ export class Bot extends BaseServiceV2<TOptions, TMetrics, TState> {
       const id = uuid.v4()
       try {
         // We'll need this later
-        const owner = 'ethereum-optimism'
-        const repo = 'ethereum-optimism.github.io'
+        const owner = 'mantlenetworkio'
+        const repo = 'mantle-token-lists'
 
         // Compute the HMAC of the request body
         const sig = Buffer.from(req.get('X-Hub-Signature-256') || '', 'utf8')

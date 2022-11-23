@@ -9,7 +9,7 @@ import Ajv from 'ajv'
 import addFormats from 'ajv-formats'
 import { schema } from '@uniswap/token-lists'
 import { ethers } from 'ethers'
-import { sleep } from '@eth-optimism/core-utils'
+import { sleep } from '@mantleio/core-utils'
 
 import { generate } from './generate'
 import { TOKEN_DATA_SCHEMA } from './schemas'
@@ -198,7 +198,7 @@ export const validate = async (
           }
         }
 
-        if (chain.startsWith('optimism')) {
+        if (chain.startsWith('mantle')) {
           const factory = new ethers.Contract(
             '0x4200000000000000000000000000000000000012',
             FACTORY_ABI,

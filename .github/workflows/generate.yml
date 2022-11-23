@@ -9,7 +9,7 @@ jobs:
     name: generate
     if: |
       github.event.head_commit.committer.username != 'github-actions[bot]'
-        && github.repository == 'ethereum-optimism/ethereum-optimism.github.io'
+        && github.repository == 'mantlenetworkio/mantle-token-lists'
 
     runs-on: ubuntu-latest
 

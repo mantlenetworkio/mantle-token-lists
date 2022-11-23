@@ -19,11 +19,8 @@ export interface TokenData {
   website: string
   tokens: {
     ethereum?: Token
-    optimism?: Token
-    kovan?: Token
-    'optimism-kovan'?: Token
+    'goerli-test'?: Token
     goerli?: Token
-    'optimism-goerli'?: Token
   }
 }
 

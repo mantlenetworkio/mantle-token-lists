@@ -54,7 +54,7 @@ export const generate = (datadir: string) => {
         return list
       },
       {
-        name: 'Optimism',
+        name: 'Mantle',
         logoURI: `${BASE_URL}/mantle_logo.svg`,
         keywords: ['scaling', 'layer2', 'infrastructure'],
         timestamp: new Date().toISOString(),
