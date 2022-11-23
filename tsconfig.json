@@ -23,7 +23,7 @@
   ],
   "include": [
     "index.ts",
-    "optimism.tokenlist.json",
+    "mantle.tokenlist.json",
     "package.json",
     "src/**/*",
     "bin/**/*"

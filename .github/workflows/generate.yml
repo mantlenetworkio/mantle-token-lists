@@ -41,10 +41,10 @@ jobs:
 
       - name: Generate token list
         run: |
-          yarn generate --datadir ./data --outfile optimism.tokenlist.json
+          yarn generate --datadir ./data --outfile mantle.tokenlist.json
 
       - name: Commit token list
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "bot(ci): generate token list"
-          file_pattern: optimism.tokenlist.json
+          file_pattern: mantle.tokenlist.json
