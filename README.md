@@ -1,6 +1,6 @@
 # Mantle Token List
 
-The Mantle token list is used as the source of truth for the [Mantle Gateway](https://bridge.testnet.mantlenetwork.io/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
+The Mantle token list is used as the source of truth for the [Mantle Bridge](https://bridge.testnet.mantlenetwork.io/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
 
 ## Review process and merge criteria
 
@@ -78,9 +78,9 @@ Please include the token addresses for *all* chains where the token you are subm
 We currently accept tokens on the following chains:
 
 - `ethereum`
-- `optimism`
+- `mantle`
 - `goerli`
-- `optimism-goerli`
+- `mantle-goerli`
 
 #### Non-bridgable tokens
 
@@ -139,7 +139,7 @@ If you require overrides for specific tokens, you can include the `overrides` fi
         "name": "My Ethereum Token"
       }
     },
-    "optimism": {
+    "mantle": {
       "address": "0x2345234523452345234523452345234523452345",
       "overrides": {
         "bridge": "0x1111111111111111111111111111111111111111"
@@ -151,7 +151,7 @@ If you require overrides for specific tokens, you can include the `overrides` fi
 
 ### Create a pull request
 
-Open a [pull request](https://github.com/ethereum-optimism/ethereum-optimism.github.io/pulls) with the changes that you've made. Please only add one token per pull request to simplify the review process. This means two new files inside of one new folder. If you want to add multiple tokens, please open different PRs for each token.
+Open a [pull request](https://github.com/mantlenetworkio/mantle-token-lists/pulls) with the changes that you've made. Please only add one token per pull request to simplify the review process. This means two new files inside of one new folder. If you want to add multiple tokens, please open different PRs for each token.
 
 ### Respond to validation checks
 
