@@ -37,7 +37,7 @@
       "decimals": "18",
       "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/bit.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xB00941821c13a6fFb31008a0b6c01A5115ae9656"
+        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821"
       }
     }, {
       "chainId": 5001,
