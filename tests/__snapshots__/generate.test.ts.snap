@@ -7,7 +7,7 @@ Object {
     "layer2",
     "infrastructure",
   ],
-  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "logoURI": "https://token-list.mantlenetwork.io/mantle_logo.svg",
   "name": "Optimism",
   "timestamp": "2022-08-17T17:00:00.000Z",
   "tokens": Array [

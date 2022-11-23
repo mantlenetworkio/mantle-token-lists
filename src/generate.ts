@@ -10,7 +10,7 @@ import { TokenData } from './types'
 /**
  * Base URL where static assets are hosted.
  */
-const BASE_URL = 'https://ethereum-optimism.github.io'
+const BASE_URL = 'https://token-list.mantlenetwork.io'
 
 /**
  * Generates a token list from the data in the data folder.
@@ -55,7 +55,7 @@ export const generate = (datadir: string) => {
       },
       {
         name: 'Optimism',
-        logoURI: `${BASE_URL}/optimism.svg`,
+        logoURI: `${BASE_URL}/mantle_logo.svg`,
         keywords: ['scaling', 'layer2', 'infrastructure'],
         timestamp: new Date().toISOString(),
         tokens: [],
