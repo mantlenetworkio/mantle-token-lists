@@ -44,7 +44,7 @@ pull_request_rules:
     actions:
       comment:
         message: |
-          Thanks for creating the PR! We're stoked to see you building on Optimism.
+          Thanks for creating the PR! We're stoked to see you building on Mantle.
           Please give our team about a week to review your PR :)
 
   - name: Say thanks

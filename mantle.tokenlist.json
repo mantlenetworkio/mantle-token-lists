@@ -1,5 +1,5 @@
 {
-  "name": "Optimism",
+  "name": "mantlenetworkio",
   "logoURI": "https://token-list.mantlenetwork.io/mantle_logo.svg",
   "keywords": [
     "scaling",
@@ -25,7 +25,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }

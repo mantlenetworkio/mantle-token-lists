@@ -1,14 +1,14 @@
 {
-  "name": "@eth-optimism/tokenlist",
-  "description": "[Optimism] token list",
-  "version": "4.3.0",
+  "name": "@mantleio/tokenlist",
+  "description": "[Mantle] token list",
+  "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://github.com/ethereum-optimism/tokenlist#readme",
+  "homepage": "https://github.com/mantlenetworkio/mantle-token-lists#readme",
   "license": "MIT",
-  "author": "Optimism",
+  "author": "Mantle",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereum-optimism/tokenlist.git"
+    "url": "git+https://github.com/mantlenetworkio/mantle-token-lists.git"
   },
   "scripts": {
     "validate": "ts-node ./bin/cli.ts validate",
@@ -23,9 +23,9 @@
   "devDependencies": {
     "@actions/core": "^1.4.0",
     "@babel/eslint-parser": "^7.18.2",
-    "@eth-optimism/common-ts": "^0.6.5",
-    "@eth-optimism/contracts": "^0.5.7",
-    "@eth-optimism/core-utils": "^0.9.3",
+    "@mantleio/common-ts": "^0.1.0",
+    "@mantleio/contracts": "^0.1.0",
+    "@mantleio/core-utils": "^0.1.0",
     "@types/glob": "^8.0.0",
     "@types/jest": "^29.0.3",
     "@types/node": "^12.0.0",
