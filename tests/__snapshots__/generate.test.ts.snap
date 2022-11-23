@@ -13,69 +13,47 @@ Object {
   "tokens": Array [
     Object {
       "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 1,
+      "chainId": 5,
       "decimals": 18,
       "extensions": Object {
-        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
       },
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
       "name": "Ether",
       "symbol": "ETH",
+    },
+    Object {
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "chainId": 5001,
+      "decimals": 18,
+      "extensions": Object {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      },
+      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "name": "Ether",
+      "symbol": "ETH",
+    },
+    Object {
+      "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be",
+      "chainId": 5,
+      "decimals": 18,
+      "extensions": Object {
+        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
+      },
+      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.png",
+      "name": "Mantle",
+      "symbol": "BIT",
     },
     Object {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "chainId": 10,
+      "chainId": 5001,
       "decimals": 18,
       "extensions": Object {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       },
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "name": "Ether",
-      "symbol": "ETH",
-    },
-    Object {
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 42,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B",
-      },
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "name": "Ether",
-      "symbol": "ETH",
-    },
-    Object {
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "chainId": 69,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      },
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "name": "Ether",
-      "symbol": "ETH",
-    },
-    Object {
-      "address": "0x4200000000000000000000000000000000000042",
-      "chainId": 10,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      },
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
-      "name": "Optimism",
-      "symbol": "OP",
-    },
-    Object {
-      "address": "0x4200000000000000000000000000000000000042",
-      "chainId": 69,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      },
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
-      "name": "Optimism",
-      "symbol": "OP",
+      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.png",
+      "name": "Mantle",
+      "symbol": "BIT",
     },
   ],
   "version": Object {
