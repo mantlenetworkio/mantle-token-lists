@@ -2,7 +2,7 @@ name: Generate Token List
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   generate:
@@ -14,10 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+ #     - uses: actions/checkout@v2
+ #       with:
+ #         token: ${{ secrets.PAT }}
+ #         fetch-depth: 0
+      - name: Checkout
+        uses: actions/checkout@master
         with:
-          token: ${{ secrets.PAT }}
-          fetch-depth: 0
+          ref: main
 
       - name: Use Node.js 16.x
         uses: actions/setup-node@v2
