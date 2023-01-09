@@ -1,6 +1,6 @@
 {
   "name": "BitDAO",
-  "symbol": "BitDAO",
+  "symbol": "BIT",
   "decimals": 18,
   "tokens": {
     "goerli": {
