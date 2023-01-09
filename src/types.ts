@@ -19,7 +19,7 @@ export interface TokenData {
   website: string
   tokens: {
     ethereum?: Token
-    'mantle-test'?: Token
+    'mantle-goerli'?: Token
     goerli?: Token
   }
 }

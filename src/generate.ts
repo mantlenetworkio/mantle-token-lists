@@ -32,6 +32,8 @@ export const generate = (datadir: string) => {
       const logofiles = glob.sync(
         `${path.join(datadir, folder)}/logo.{png,svg}`
       )
+      console.log('data:', data);
+      console.log('logofiles:', logofiles);
       const logoext = logofiles[0].endsWith('png') ? 'png' : 'svg'
       return Object.entries(data.tokens).map(([chain, token]) => {
         return {
