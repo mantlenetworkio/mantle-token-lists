@@ -1,0 +1,13 @@
+{
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844"
+    },
+    "mantle-goerli": {
+      "address": "0x93CA2aDb9cC0658d8d65cA1A261e173A59fEeB39"
+    }
+  }
+}
