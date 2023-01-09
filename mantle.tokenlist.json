@@ -1,13 +1,46 @@
 {
-  "name": "mantlenetworkio",
+  "name": "Mantle",
   "logoURI": "https://token-list.mantlenetwork.io/mantle_logo.svg",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2022-10-07T23:31:19.067Z",
+  "timestamp": "2023-01-09T09:14:39.937Z",
   "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be",
+      "name": "BitDAO",
+      "symbol": "BitDAO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "BitDAO",
+      "symbol": "BitDAO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
     {
       "chainId": 5,
       "address": "0x0000000000000000000000000000000000000000",
@@ -16,7 +49,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821"
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
     },
     {
@@ -29,31 +62,44 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
-    }, {
-      "chainId": 5,
-      "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be",
-      "name": "BITDAO",
-      "symbol": "BIT",
-      "decimals": "18",
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/bit.svg",
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821"
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
-    }, {
+    },
+    {
+      "chainId": 5,
+      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
       "chainId": 5001,
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "BITDAO",
-      "symbol": "BIT",
-      "decimals": "18",
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/bit.svg",
+      "address": "0x9155d6bFD923398D77292a2781D3E4acfD3cFFd6",
+      "name": "Wrapped BTC L2",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 3,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
