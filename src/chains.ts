@@ -14,14 +14,14 @@ export const NETWORK_DATA = {
     name: 'Goerli',
     provider: new ethers.providers.InfuraProvider('goerli'),
     layer: 1,
-    pair: 'mantle-test',
-    bridge: '0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821',
+    pair: 'mantle-goerli',
+    bridge: '0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3',
   },
-  'mantle-test': {
+  'mantle-goerli': {
     id: 5001,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
-        'https://rpc.testnet.mantlenetwork.io'
+      'https://rpc.testnet.mantlenetwork.io'
     ),
     layer: 2,
     pair: 'mantle',

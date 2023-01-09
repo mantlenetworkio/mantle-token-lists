@@ -111,18 +111,18 @@ export const TOKEN_DATA_SCHEMA = {
         {
           type: 'object',
           properties: {
-            'mantle-test': TOKEN_SCHEMA,
+            'mantle-goerli': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['mantle-test'],
+          required: ['mantle-goerli'],
         },
         {
           type: 'object',
           properties: {
-            'mantle-test': TOKEN_SCHEMA,
+            'mantle-goerli': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['mantle-test'],
+          required: ['mantle-goerli'],
         },
         {
           type: 'object',
@@ -131,7 +131,7 @@ export const TOKEN_DATA_SCHEMA = {
             'optimism-goerli': TOKEN_SCHEMA,
           },
           additionalProperties: false,
-          required: ['goerli', 'mantle-test'],
+          required: ['goerli', 'mantle-goerli'],
         },
         {
           type: 'object',

@@ -9,7 +9,7 @@
     "goerli": {
       "address": "0x0000000000000000000000000000000000000000"
     },
-    "goerli-testnet": {
+    "mantle-goerli": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     }
   }
