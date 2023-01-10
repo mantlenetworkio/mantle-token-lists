@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-01-10T02:40:30.171Z",
+  "timestamp": "2023-01-10T02:55:19.361Z",
   "tokens": [
     {
       "chainId": 5,
@@ -26,28 +26,6 @@
       "symbol": "BIT",
       "decimals": 18,
       "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 5,
-      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/DAI/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
-      }
-    },
-    {
-      "chainId": 5001,
-      "address": "0x93CA2aDb9cC0658d8d65cA1A261e173A59fEeB39",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
