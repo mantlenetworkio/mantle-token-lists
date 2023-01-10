@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-01-09T10:19:01.596Z",
+  "timestamp": "2023-01-10T02:40:30.171Z",
   "tokens": [
     {
       "chainId": 5,
@@ -26,6 +26,28 @@
       "symbol": "BIT",
       "decimals": 18,
       "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/DAI/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x93CA2aDb9cC0658d8d65cA1A261e173A59fEeB39",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -59,6 +81,94 @@
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/LINK/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/LINK/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/UNI/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantlenetwork.io/data/UNI/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantlenetwork.io/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x2ED3c15eC59CE827c4aBBabfF76d37562558437D",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantlenetwork.io/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantlenetwork.io/data/USDT/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantlenetwork.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
