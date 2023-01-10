@@ -1,0 +1,13 @@
+{
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
+    },
+    "mantle-goerli": {
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01"
+    }
+  }
+}

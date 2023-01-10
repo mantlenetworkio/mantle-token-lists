@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Bringing real world currency to the blockchain.",
+  "website": "https://tether.to/",
+  "twitter": "@Tether_to",
+  "tokens": {
+    "goerli": {
+      "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49"
+    },
+    "mantle-goerli": {
+      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F"
+    }
+  }
+}
