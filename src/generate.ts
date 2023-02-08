@@ -10,7 +10,7 @@ import { TokenData } from './types'
 /**
  * Base URL where static assets are hosted.
  */
-const BASE_URL = 'https://token-list.mantlenetwork.io'
+const BASE_URL = 'https://token-list.mantle.xyz'
 
 /**
  * Generates a token list from the data in the data folder.
