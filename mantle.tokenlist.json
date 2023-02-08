@@ -1,12 +1,12 @@
 {
   "name": "Mantle",
-  "logoURI": "https://token-list.mantlenetwork.io/mantle_logo.svg",
+  "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-02-08T09:21:26.789Z",
+  "timestamp": "2023-02-08T09:38:45.488Z",
   "tokens": [
     {
       "chainId": 5,
@@ -14,7 +14,7 @@
       "name": "BitDAO",
       "symbol": "BIT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -25,7 +25,7 @@
       "name": "BitDAO",
       "symbol": "BIT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -36,7 +36,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -47,7 +47,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -58,7 +58,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -69,7 +69,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/LINK/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -80,7 +80,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/LINK/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -91,7 +91,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/UNI/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -102,7 +102,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantlenetwork.io/data/UNI/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -113,7 +113,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantlenetwork.io/data/USDC/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -124,7 +124,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantlenetwork.io/data/USDC/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -135,7 +135,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantlenetwork.io/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -146,7 +146,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantlenetwork.io/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -157,7 +157,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -168,7 +168,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
       }
@@ -179,7 +179,7 @@
       "name": "Wrapped BTC L2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantlenetwork.io/data/WBTC/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
