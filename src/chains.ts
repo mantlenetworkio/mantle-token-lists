@@ -15,7 +15,7 @@ export const NETWORK_DATA = {
     provider: new ethers.providers.InfuraProvider('goerli'),
     layer: 1,
     pair: 'mantle-goerli',
-    bridge: '0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3',
+    bridge: '0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330',
   },
   'mantle-goerli': {
     id: 5001,
