@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-02-08T09:38:45.488Z",
+  "timestamp": "2023-04-03T10:03:22.284Z",
   "tokens": [
     {
       "chainId": 5,
@@ -16,7 +16,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -49,7 +49,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -71,7 +71,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -93,7 +93,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -115,7 +115,7 @@
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -137,7 +137,7 @@
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
@@ -170,7 +170,7 @@
       "decimals": 8,
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xe401eA8E74a58C3Bf177e2E31D11DFE6dEb452e3"
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
     },
     {
