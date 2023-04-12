@@ -6,8 +6,30 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-04-03T10:03:22.284Z",
+  "timestamp": "2023-04-12T10:39:06.495Z",
   "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x016D99A8dF130F90a26d1A07ac193357F976BeBa",
+      "name": "Aoa",
+      "symbol": "AOA",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/AOA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x1451239a21A3ADD7cb7E5E8d05Bc22f688F31585",
+      "name": "Aoa",
+      "symbol": "AOA",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/AOA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 5,
       "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be",
