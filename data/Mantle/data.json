@@ -1,10 +1,10 @@
 {
-  "name": "BitDAO",
-  "symbol": "BIT",
+  "name": "Mantle",
+  "symbol": "MNT",
   "decimals": 18,
   "tokens": {
     "goerli": {
-      "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be"
+      "address": "TBD"
     },
     "mantle-goerli": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
