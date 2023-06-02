@@ -1,6 +1,6 @@
 # Mantle Token List
 
-The Mantle token list is used as the source of truth for the [Mantle Bridge](https://bridge.testnet.mantlenetwork.io/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
+The Mantle token list is used as the source of truth for the [Mantle Bridge](https://bridge.testnet.mantle.xyz/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
 
 ## Review process and merge criteria
 
@@ -159,4 +159,4 @@ Your pull request will be validated by a series of automated checks. If one of t
 
 ### Wait for the token list to update automatically
 
-Once your PR is merged, the token list will update automatically to include your token. Please do NOT update the token list directly. All token list updates are handled automatically when PRs are merged into the `master` branch. 
+Once your PR is merged, the token list will update automatically to include your token. Please do NOT update the token list directly. All token list updates are handled automatically when PRs are merged into the `master` branch.
