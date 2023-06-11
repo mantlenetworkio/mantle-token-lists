@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-06-11T03:39:01.232Z",
+  "timestamp": "2023-06-11T04:14:39.046Z",
   "tokens": [
     {
       "chainId": 1,
@@ -65,7 +65,7 @@
     },
     {
       "chainId": 5,
-      "address": "0x4031bc992179A7742BB99ec99Da67F852C11927a",
+      "address": "0xc1dC2d65A2243c22344E725677A3E3BEBD26E604",
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
