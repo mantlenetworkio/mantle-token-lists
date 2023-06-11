@@ -21,7 +21,7 @@ export const NETWORK_DATA = {
     id: 5001,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://rpc.testnet.mantlenetwork.io'
+      'https://rpc.testnet.mantle.xyz'
     ),
     layer: 2,
     pair: 'mantle',

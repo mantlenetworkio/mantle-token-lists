@@ -7,7 +7,7 @@ Object {
     "layer2",
     "infrastructure",
   ],
-  "logoURI": "https://token-list.mantlenetwork.io/mantle_logo.svg",
+  "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
   "name": "Mantle",
   "timestamp": "2022-08-17T17:00:00.000Z",
   "tokens": Array [
@@ -18,7 +18,7 @@ Object {
       "extensions": Object {
         "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
       },
-      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "name": "Ether",
       "symbol": "ETH",
     },
@@ -29,7 +29,7 @@ Object {
       "extensions": Object {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       },
-      "logoURI": "https://token-list.mantlenetwork.io/data/ETH/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "name": "Ether",
       "symbol": "ETH",
     },
@@ -40,7 +40,7 @@ Object {
       "extensions": Object {
         "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
       },
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.png",
       "name": "Mantle",
       "symbol": "BIT",
     },
@@ -51,7 +51,7 @@ Object {
       "extensions": Object {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       },
-      "logoURI": "https://token-list.mantlenetwork.io/data/BitDAO/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.png",
       "name": "Mantle",
       "symbol": "BIT",
     },
