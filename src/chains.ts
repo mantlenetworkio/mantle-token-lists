@@ -7,7 +7,7 @@ export const NETWORK_DATA = {
     provider: new ethers.providers.InfuraProvider('homestead'),
     layer: 1,
     pair: 'optimism',
-    bridge: '0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1',
+    bridge: '0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012',
   },
   goerli: {
     id: 5,
@@ -22,6 +22,16 @@ export const NETWORK_DATA = {
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
       'https://rpc.testnet.mantle.xyz'
+    ),
+    layer: 2,
+    pair: 'mantle',
+    bridge: '0x4200000000000000000000000000000000000010',
+  },
+  mantle: {
+    id: 5000,
+    name: 'mantle',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://rpc4blockscout.mainnet.gomantle.org'
     ),
     layer: 2,
     pair: 'mantle',
