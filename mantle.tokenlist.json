@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-06-11T04:14:39.046Z",
+  "timestamp": "2023-07-06T03:31:16.835Z",
   "tokens": [
     {
       "chainId": 1,
@@ -16,7 +16,18 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
     {
@@ -59,6 +70,28 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -159,7 +192,7 @@
       "decimals": 8,
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
     },
     {
