@@ -6,6 +6,9 @@
     "ethereum": {
       "address": "0x0000000000000000000000000000000000000000"
     },
+    "mantle": {
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+    },
     "goerli": {
       "address": "0x0000000000000000000000000000000000000000"
     },

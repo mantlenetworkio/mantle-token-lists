@@ -3,6 +3,12 @@
   "symbol": "MNT",
   "decimals": 18,
   "tokens": {
+    "ethereum": {
+      "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+    },
+    "mantle": {
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+    },
     "goerli": {
       "address": "0xc1dC2d65A2243c22344E725677A3E3BEBD26E604"
     },
