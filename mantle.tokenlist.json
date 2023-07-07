@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-07-06T03:31:16.835Z",
+  "timestamp": "2023-07-07T11:37:48.185Z",
   "tokens": [
     {
       "chainId": 1,
@@ -163,6 +163,28 @@
       }
     },
     {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
       "chainId": 5,
       "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
       "name": "Tether USD",
@@ -193,6 +215,17 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
     {
