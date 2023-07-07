@@ -9,6 +9,9 @@
     "ethereum": {
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
     },
+    "mantle": {
+      "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2"
+    },
     "goerli": {
       "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05"
     },
