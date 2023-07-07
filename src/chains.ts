@@ -31,7 +31,7 @@ export const NETWORK_DATA = {
     id: 5000,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://rpc4blockscout.mainnet.gomantle.org'
+      'https://rpc.mantle.xyz'
     ),
     layer: 2,
     pair: 'mantle',
