@@ -12,7 +12,7 @@
     "goerli": {
       "address": "0xc1dC2d65A2243c22344E725677A3E3BEBD26E604"
     },
-    "mantle-goerli": {
+    "ringwood": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
   }

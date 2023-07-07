@@ -67,7 +67,7 @@ Add a file to your folder called `data.json` with the following format:
     "goerli": {
       "address": "0x5678567856785678567856785678567856785678"
     },
-    "mantle-goerli": {
+    "ringwood": {
       "address": "0x6789678967896789678967896789678967896789"
     }
   }
@@ -80,7 +80,7 @@ We currently accept tokens on the following chains:
 - `ethereum`
 - `mantle`
 - `goerli`
-- `mantle-goerli`
+- `ringwood`
 
 #### Non-bridgable tokens
 

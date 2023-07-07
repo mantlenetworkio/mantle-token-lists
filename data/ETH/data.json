@@ -12,7 +12,7 @@
     "goerli": {
       "address": "0x0000000000000000000000000000000000000000"
     },
-    "mantle-goerli": {
+    "ringwood": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     }
   }

@@ -12,7 +12,7 @@
     "goerli": {
       "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05"
     },
-    "mantle-goerli": {
+    "ringwood": {
       "address": "0x9155d6bFD923398D77292a2781D3E4acfD3cFFd6",
       "overrides": { "name":"Wrapped BTC L2" }
     }
