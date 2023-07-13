@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Staked Ethereum",
+  "symbol": "wstETH",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0x762aABcCD32509b0062cb5a898f476f24ad848ED"
+    },
+    "mantle-goerli": {
+      "address": "0xE6AA7Ab614cDd3C6Dd4d842Dc9B3C1e71104F18E"
+    }
+  }
+}

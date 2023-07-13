@@ -1,0 +1,13 @@
+{
+  "name": "iZUMi Token",
+  "symbol": "iZi",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0xE5F5a298BcDAadb378b23588A50940398Ce9472f"
+    },
+    "mantle-goerli": {
+      "address": "0xdD51951c6a19ef8922D6b84436c4a5C0aCF7f628"
+    }
+  }
+}

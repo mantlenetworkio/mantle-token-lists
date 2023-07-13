@@ -1,0 +1,13 @@
+{
+  "name": "IONX",
+  "symbol": "IONX",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0x0d2b6c830c4565A556bFf5417ee46A3D798a61f7"
+    },
+    "mantle-goerli": {
+      "address": "0x538EC12E9b801268913b33ea66B913691eFb310e"
+    }
+  }
+}
