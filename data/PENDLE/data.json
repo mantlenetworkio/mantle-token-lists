@@ -1,0 +1,13 @@
+{
+  "name": "PENDLE",
+  "symbol": "PENDLE",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0xe20C2CF90f1e4AA8ABE20a6562C16B3601ad29BF"
+    },
+    "mantle-goerli": {
+      "address": "0x9F2259D6A9E016b051A9058Da05cFEedc0AB629E"
+    }
+  }
+}
