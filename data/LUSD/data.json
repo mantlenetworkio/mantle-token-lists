@@ -2,7 +2,16 @@
   "name": "LUSD Stablecoin",
   "symbol": "LUSD",
   "decimals": 18,
+  "description": "Borrow LUSD against ETH,0% interest loans",
+  "website": "https://www.liquity.org/",
+  "twitter": "@LiquityProtocol",
   "tokens": {
+    "ethereum": {
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+    },
+    "mantle": {
+      "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32"
+    },
     "goerli": {
       "address": "0xDDb48DFDC7d6719008C39980fBF88008AA7D8306"
     },

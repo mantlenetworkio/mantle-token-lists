@@ -1,8 +1,17 @@
 {
-  "name": "Wrapped Staked Ethereum",
+  "name": "Wrapped liquid staked Ether 2.0",
   "symbol": "wstETH",
   "decimals": 18,
+  "description": "Liquidity for staked tokens",
+  "website": "https://lido.fi/",
+  "twitter": "@LidoFinance",
   "tokens": {
+    "ethereum": {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+    },
+    "mantle": {
+      "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE"
+    },
     "goerli": {
       "address": "0x762aABcCD32509b0062cb5a898f476f24ad848ED"
     },

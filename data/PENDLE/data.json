@@ -2,7 +2,16 @@
   "name": "PENDLE",
   "symbol": "PENDLE",
   "decimals": 18,
+  "description": "Assets at a Discount",
+  "website": "https://www.pendle.finance/",
+  "twitter": "@pendle_fi",
   "tokens": {
+    "ethereum": {
+      "address": "0x808507121b80c02388fad14726482e061b8da827"
+    },
+    "mantle": {
+      "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729"
+    },
     "goerli": {
       "address": "0xe20C2CF90f1e4AA8ABE20a6562C16B3601ad29BF"
     },
