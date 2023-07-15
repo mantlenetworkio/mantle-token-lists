@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-07-07T11:37:48.185Z",
+  "timestamp": "2023-07-15T09:19:05.506Z",
   "tokens": [
     {
       "chainId": 1,
@@ -53,6 +53,50 @@
       }
     },
     {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x0d2b6c830c4565A556bFf5417ee46A3D798a61f7",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x538EC12E9b801268913b33ea66B913691eFb310e",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
       "chainId": 5,
       "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
       "name": "Chainlink",
@@ -70,6 +114,50 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xDDb48DFDC7d6719008C39980fBF88008AA7D8306",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x06182Fa2330Ad3Bbc1fAaf69Ff188b2D349283f2",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -114,6 +202,50 @@
       "symbol": "MNT",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xe20C2CF90f1e4AA8ABE20a6562C16B3601ad29BF",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x9F2259D6A9E016b051A9058Da05cFEedc0AB629E",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -246,6 +378,50 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x762aABcCD32509b0062cb5a898f476f24ad848ED",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xE6AA7Ab614cDd3C6Dd4d842Dc9B3C1e71104F18E",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
