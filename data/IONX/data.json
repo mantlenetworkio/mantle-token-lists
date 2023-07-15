@@ -2,7 +2,16 @@
   "name": "IONX",
   "symbol": "IONX",
   "decimals": 18,
+  "description": "The New NFT Protocol That’s Sparking a DeFi Revolution",
+  "website": "https://www.charged.fi/",
+  "twitter": "@DefiNft",
   "tokens": {
+    "ethereum": {
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217"
+    },
+    "mantle": {
+      "address": "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42"
+    },
     "goerli": {
       "address": "0x0d2b6c830c4565A556bFf5417ee46A3D798a61f7"
     },
