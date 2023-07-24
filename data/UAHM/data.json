@@ -1,0 +1,20 @@
+{
+    "name": "Ukrainian hooper",
+    "symbol": "UAHM",
+    "decimals": 18,
+    "description": "Ukrainian project on Mantle",
+    "website": "https://uahm.io",
+    "twitter": "@UAHMio",
+    "tokens": {
+      "mantle": {
+        "address": "0x554388eC984278A3c5BFF09E6192C20CdFCA9F29"
+      },
+       "goerli": {
+        "address": "0x7197131559AaB98F082fed05C6BFF253B0089cD5"
+    },
+      "mantle-goerli": {
+        "address": "0x255da34d45E26F893DEf2D0BC81590022dCE78E7"
+    }
+
+    }
+  }
