@@ -2,6 +2,10 @@
 
 The Mantle token list is used as the source of truth for the [Mantle Bridge](https://bridge.testnet.mantle.xyz/deposit) which is the main portal for moving assets between Layer 1 and Layer 2.
 
+## Fetching Token list
+
+Once a change get merged it will automatically be added to the list and can be fetched from the [token list](/mantle.tokenlist.json) as json.
+
 ## Review process and merge criteria
 
 ### Process overview
