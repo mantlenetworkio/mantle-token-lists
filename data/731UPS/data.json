@@ -7,6 +7,9 @@
   "tokens": {
     "goerli": {
       "address": "0x89E2856372629D6359ECd4D8CD9F3a86434D9984"
+    },
+    "mantle-goerli": {
+      "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E"
     }
   }
 }
