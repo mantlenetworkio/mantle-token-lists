@@ -1,0 +1,15 @@
+{
+  "name": "Custom UPS",
+  "symbol": "CUPS",
+  "decimals": 18,
+  "description": "Custom UPS token",
+  "website": "https://republiccrypto.com/",
+  "tokens": {
+    "ethereum": {
+      "address": "0xd7284ce0d1b62d07e044bb27d69dff719fcf32ba"
+    },
+    "mantle": {
+      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea"
+    }
+  }
+}
