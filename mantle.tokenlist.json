@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-08-24T02:50:32.350Z",
+  "timestamp": "2023-08-24T02:51:53.391Z",
   "tokens": [
     {
       "chainId": 5,
@@ -26,6 +26,28 @@
       "symbol": "$818UPS",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/$818UPS/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x89E2856372629D6359ECd4D8CD9F3a86434D9984",
+      "name": "731UPS Token",
+      "symbol": "731UPS",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/731UPS/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+      "name": "731UPS Token",
+      "symbol": "731UPS",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/731UPS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
