@@ -1,0 +1,15 @@
+{
+  "name": "L2StandardERC20",
+  "symbol": "$818UPS",
+  "decimals": 18,
+  "description": "Test token",
+  "website": "https://republiccrypto.com/",
+  "tokens": {
+    "goerli": {
+      "address": "0x0d9EC3927BE8C39bD14687d715a68A6492332951"
+    },
+    "mantle-goerli": {
+      "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191"
+    }
+  }
+}
