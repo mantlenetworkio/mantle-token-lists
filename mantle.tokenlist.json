@@ -6,52 +6,8 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-08-24T02:51:53.391Z",
+  "timestamp": "2023-08-24T09:17:54.649Z",
   "tokens": [
-    {
-      "chainId": 5,
-      "address": "0x0d9EC3927BE8C39bD14687d715a68A6492332951",
-      "name": "L2StandardERC20",
-      "symbol": "$818UPS",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/$818UPS/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
-      }
-    },
-    {
-      "chainId": 5001,
-      "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
-      "name": "L2StandardERC20",
-      "symbol": "$818UPS",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/$818UPS/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 5,
-      "address": "0x89E2856372629D6359ECd4D8CD9F3a86434D9984",
-      "name": "731UPS Token",
-      "symbol": "731UPS",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/731UPS/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
-      }
-    },
-    {
-      "chainId": 5001,
-      "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
-      "name": "731UPS Token",
-      "symbol": "731UPS",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/731UPS/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
     {
       "chainId": 1,
       "address": "0x0000000000000000000000000000000000000000",
@@ -146,7 +102,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
@@ -157,7 +113,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -366,7 +322,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
@@ -377,7 +333,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -388,7 +344,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       }
@@ -399,7 +355,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png",
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
