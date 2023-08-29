@@ -6,8 +6,30 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-08-24T09:17:54.649Z",
+  "timestamp": "2023-08-29T06:04:41.688Z",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd7284ce0d1b62d07e044bb27d69dff719fcf32ba",
+      "name": "Custom UPS",
+      "symbol": "CUPS",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+      "name": "Custom UPS",
+      "symbol": "CUPS",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 1,
       "address": "0x0000000000000000000000000000000000000000",
