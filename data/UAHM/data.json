@@ -1,0 +1,13 @@
+{
+  "name": "Ukrainian hooper",
+  "symbol": "UAHM",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0xe464b77e117D266c4694b892C127da3dD89ff66d"
+    },
+    "mantle-goerli": {
+      "address": "0x166F251A3853b10b8211ed354610e238Ed0fE397"
+    }
+  }
+}
