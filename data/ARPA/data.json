@@ -1,0 +1,17 @@
+{
+  "name": "ARPA Token",
+  "symbol": "ARPA",
+  "decimals": 18,
+  "description": "ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.",
+  "website": "https://www.arpanetwork.io/",
+  "twitter": "@arpaofficial",
+  "tokens": {
+    "ethereum": {
+      "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+    },
+    "mantle": {
+      "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0"
+    }
+  }
+}
+
