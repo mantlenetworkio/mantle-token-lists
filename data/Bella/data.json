@@ -1,0 +1,16 @@
+{
+  "name": "Bella",
+  "symbol": "BEL",
+  "decimals": 18,
+  "description": "Bella: A suite of streamlined tools to unleash your liquidity potential and maximize crypto yields.",
+  "website": "https://bella.fi/",
+  "twitter": "@Tether_to",
+  "tokens": {
+    "ethereum": {
+      "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14"
+    },
+    "mantle": {
+      "address": "0x3390108e913824b8ead638444cc52b9abdf63798"
+    }
+  }
+}
