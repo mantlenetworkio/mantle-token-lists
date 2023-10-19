@@ -6,8 +6,30 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-09-07T05:59:11.838Z",
+  "timestamp": "2023-10-19T05:35:45.331Z",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+      "name": "Bella",
+      "symbol": "BEL",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x3390108e913824b8ead638444cc52b9abdf63798",
+      "name": "Bella",
+      "symbol": "BEL",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 1,
       "address": "0xd7284ce0d1b62d07e044bb27d69dff719fcf32ba",
