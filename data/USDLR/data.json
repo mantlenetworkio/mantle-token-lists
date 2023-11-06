@@ -1,0 +1,22 @@
+{
+  "name": "USDLR by Stable",
+  "symbol": "USDLR",
+  "decimals": 6,
+  "description": "USDLR is the first fiat-backed stablecoin that pays DeFi protocols.",
+  "website": "https://withstable.com/",
+  "twitter": "@withstable",
+  "tokens": {
+    "ethereum": {
+      "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917"
+    },
+    "mantle": {
+      "address": "0x8FE7176F0BF63358ad9490fd24Ac0bdB4Dac33a8"
+    },
+    "goerli": {
+      "address": "0x335ebba91118eb2c3d1ca23f124c4b9901e3323d"
+    },
+    "mantle-goerli": {
+      "address": "0xcA6BaE3b11d07fa4583fA2fc4c8B0EE546DeCa9E"
+    }
+  }
+}
