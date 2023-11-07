@@ -1,27 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1915 1077.2" style="enable-background:new 0 0 1915 1077.2;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FF596E;}
-	.st1{fill:#800010;}
-</style>
-<g>
-	<g>
-		<polygon class="st0" points="895.1,511.7 957.5,482.7 957.5,403.6 		"/>
-		<polygon class="st0" points="957.5,482.7 957.5,545.8 1019.9,511.7 		"/>
-		<polygon class="st1" points="957.5,482.7 957.5,545.8 895.1,511.7 		"/>
-		<polygon class="st1" points="1019.9,511.7 957.5,482.7 957.5,403.6 		"/>
-		<polygon class="st0" points="957.5,570.1 957.5,637.3 893.9,535.4 		"/>
-		<polygon class="st1" points="957.5,570.1 957.5,637.3 1021.1,535.4 		"/>
-		<polygon class="st1" points="1031.6,550.7 1046,591.2 1077.6,538.5 		"/>
-		<polygon class="st0" points="1046,591.2 1077.6,581.8 1077.6,538.5 		"/>
-		<polygon class="st1" points="1077.6,581.8 1031.6,658.6 996.7,673.6 1046,591.2 		"/>
-		<polygon class="st0" points="837.4,581.8 883.4,658.6 918.3,673.6 869,591.2 		"/>
-		<polygon class="st1" points="957.5,673.6 883.4,550.7 869,591.2 918.3,673.6 		"/>
-		<polygon class="st0" points="883.4,550.7 869,591.2 837.4,538.5 		"/>
-		<polygon class="st1" points="869,591.2 837.4,581.8 837.4,538.5 		"/>
-		<polygon class="st0" points="957.5,673.6 1031.6,550.7 1046,591.2 996.7,673.6 		"/>
-	</g>
-</g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="32" cy="32" r="32" fill="white"/>
+	<path d="M20.4355 26.1361L31.9997 20.7718V6.10962L20.4355 26.1361Z" fill="#FF596E"/>
+	<path d="M32 20.772V32.4547L43.5642 26.1362L32 20.772Z" fill="#FF596E"/>
+	<path d="M31.9997 20.772V32.4547L20.4355 26.1362L31.9997 20.772Z" fill="#800010"/>
+	<path d="M43.5642 26.1361L32 20.7718V6.10962L43.5642 26.1361Z" fill="#800010"/>
+	<path d="M31.9993 36.9647V49.4164L20.2129 30.5239L31.9993 36.9647Z" fill="#FF596E"/>
+	<path d="M32 36.9647V49.4164L43.7864 30.5239L32 36.9647Z" fill="#800010"/>
+	<path d="M45.7324 33.3775L48.4025 40.8707L54.2504 31.1021L45.7324 33.3775Z" fill="#800010"/>
+	<path d="M48.4023 40.8707L54.2502 39.1382V31.1021L48.4023 40.8707Z" fill="#FF596E"/>
+	<path d="M54.2501 39.1382L45.7321 53.3705L39.2617 56.1407L48.4022 40.8707L54.2501 39.1382Z" fill="#800010"/>
+	<path d="M9.75 39.1382L18.2679 53.3705L24.7384 56.1407L15.5979 40.8707L9.75 39.1382Z" fill="#FF596E"/>
+	<path d="M31.9998 56.1407L18.2678 33.3774L15.5977 40.8707L24.7382 56.1407H31.9998Z" fill="#800010"/>
+	<path d="M18.2679 33.3775L15.5979 40.8707L9.75 31.1021L18.2679 33.3775Z" fill="#FF596E"/>
+	<path d="M15.5979 40.8707L9.75 39.1382V31.1021L15.5979 40.8707Z" fill="#800010"/>
+	<path d="M32 56.1407L45.732 33.3774L48.4021 40.8707L39.2616 56.1407H32Z" fill="#FF596E"/>
 </svg>
