@@ -1,0 +1,13 @@
+{
+  "name": "mETH",
+  "symbol": "mETH",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0x20d7E093B3fa5eBfA7a0fa414FaD547743a2400F"
+    },
+    "mantle-goerli": {
+      "address": "0x5fc6fe32871642Ea04E0651F54BE80546cF2173b"
+    }
+  }
+}

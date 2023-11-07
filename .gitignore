@@ -5,3 +5,4 @@ err.out
 std.out
 dist/
 tmp/
+.idea/
