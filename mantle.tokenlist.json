@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-11-07T08:37:45.631Z",
+  "timestamp": "2023-11-14T13:19:34.180Z",
   "tokens": [
     {
       "chainId": 1,
@@ -422,6 +422,50 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+      "name": "USDLR by Stable",
+      "symbol": "USDLR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x8FE7176F0BF63358ad9490fd24Ac0bdB4Dac33a8",
+      "name": "USDLR by Stable",
+      "symbol": "USDLR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x335ebba91118eb2c3d1ca23f124c4b9901e3323d",
+      "name": "USDLR by Stable",
+      "symbol": "USDLR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xcA6BaE3b11d07fa4583fA2fc4c8B0EE546DeCa9E",
+      "name": "USDLR by Stable",
+      "symbol": "USDLR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
