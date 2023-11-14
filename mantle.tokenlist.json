@@ -6,8 +6,52 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-11-14T13:19:34.180Z",
+  "timestamp": "2023-11-14T13:29:08.432Z",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x3e65Ac1DD4938e02301c4869d3043903F5dEB474",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xdaEa7414F54929d637F601Eb0B545BfE5384e1F4",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x20cc47b797e50f2b9ecaC0A6445D8a9E149856c1",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 1,
       "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
@@ -136,6 +180,50 @@
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x6eFFF76AcF1698a6a215eCa7D632991678Ec673b",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xa1f61F5600EBeC912EAb557e0159e22Cdd252d53",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x491FD73b7144371c04154A2a39FE5270C2E6A96A",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -356,6 +444,94 @@
       "symbol": "PENDLE",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x8baf44B350eF672232A6673E1e128C7875640477",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xE0264C0EE9D946C593732783314C10763dEC0fEf",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xe24C3B02730C2678d1018EE6bDfAaE1Bd7480161",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x49397aC9CB061152B770B1D274a5682155F20099",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xE3D47d4B5EcA617f03D22B5A2B9c17aF65bBfE73",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x1Bf3876Dbe1db0Dd27D0b1cB61DEf968502f36d3",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
