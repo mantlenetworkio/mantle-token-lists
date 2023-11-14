@@ -1,0 +1,22 @@
+{
+  "name": "Baby Doge Coin",
+  "symbol": "BabyDoge",
+  "decimals": 9,
+  "description": "Babydoge is a new crypto birthed by fans of the Doge Meme online community.",
+  "website": "https://babydoge.com/",
+  "twitter": "@BabyDogeCoin",
+  "tokens": {
+    "ethereum": {
+      "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b"
+    },
+    "mantle": {
+      "address": "0x3e65Ac1DD4938e02301c4869d3043903F5dEB474"
+    },
+    "goerli": {
+      "address": "0xdaEa7414F54929d637F601Eb0B545BfE5384e1F4"
+    },
+    "mantle-goerli": {
+      "address": "0x20cc47b797e50f2b9ecaC0A6445D8a9E149856c1"
+    }
+  }
+}
