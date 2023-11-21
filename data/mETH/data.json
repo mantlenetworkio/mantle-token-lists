@@ -3,6 +3,12 @@
   "symbol": "mETH",
   "decimals": 18,
   "tokens": {
+    "ethereum": {
+      "address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa"
+    },
+    "mantle": {
+      "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0"
+    },
     "goerli": {
       "address": "0x20d7E093B3fa5eBfA7a0fa414FaD547743a2400F"
     },

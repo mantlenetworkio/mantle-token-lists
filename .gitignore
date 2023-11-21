@@ -6,3 +6,4 @@ std.out
 dist/
 tmp/
 .idea/
+.vscode/
