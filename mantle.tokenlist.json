@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-11-21T12:09:55.791Z",
+  "timestamp": "2023-11-23T08:41:07.860Z",
   "tokens": [
     {
       "chainId": 1,
@@ -224,6 +224,28 @@
       "symbol": "FLOKI",
       "decimals": 9,
       "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e",
+      "name": "Idexo Token",
+      "symbol": "IDO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796",
+      "name": "Idexo Token",
+      "symbol": "IDO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
