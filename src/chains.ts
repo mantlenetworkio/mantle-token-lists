@@ -37,4 +37,24 @@ export const NETWORK_DATA = {
     pair: 'mantle',
     bridge: '0x4200000000000000000000000000000000000010',
   },
+  sepolia: {
+    id: 11155111,
+    name: 'sepolia',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://rpc.ankr.com/eth_sepolia'
+    ),
+    layer: 1,
+    pair: 'mantle-sepolia',
+    bridge: '0xf33939c0170F46174D62315F0128A2f1a38f99bE',
+  },
+  'mantle-sepolia': {
+    id: 5003,
+    name: 'mantle',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://rpc-internal.sepolia.mantle.xyz'
+    ),
+    layer: 2,
+    pair: 'mantle',
+    bridge: '0x4200000000000000000000000000000000000010',
+  },
 }
