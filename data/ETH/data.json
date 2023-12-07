@@ -14,6 +14,12 @@
     },
     "mantle-goerli": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+    },
+    "sepolia": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "mantle-sepolia": {
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     }
   }
 }

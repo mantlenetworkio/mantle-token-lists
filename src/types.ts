@@ -21,6 +21,8 @@ export interface TokenData {
     ethereum?: Token
     'mantle-goerli'?: Token
     goerli?: Token
+    sepolia?: Token
+    'mantle-sepolia'?: Token
   }
 }
 
