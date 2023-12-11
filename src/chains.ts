@@ -45,7 +45,7 @@ export const NETWORK_DATA = {
     ),
     layer: 1,
     pair: 'mantle-sepolia',
-    bridge: '0x6a8C5F553A2327CbC66d53F6cc5edD4C95899CC8',
+    bridge: '0x21F308067241B2028503c07bd7cB3751FFab0Fb2',
   },
   'mantle-sepolia': {
     id: 5003,
