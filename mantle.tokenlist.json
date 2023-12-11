@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-07T07:16:42.779Z",
+  "timestamp": "2023-12-11T06:22:01.790Z",
   "tokens": [
     {
       "chainId": 1,
@@ -192,7 +192,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xf33939c0170F46174D62315F0128A2f1a38f99bE"
+        "optimismBridgeAddress": "0x6a8C5F553A2327CbC66d53F6cc5edD4C95899CC8"
       }
     },
     {
@@ -434,7 +434,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0xf33939c0170F46174D62315F0128A2f1a38f99bE"
+        "optimismBridgeAddress": "0x6a8C5F553A2327CbC66d53F6cc5edD4C95899CC8"
       }
     },
     {
