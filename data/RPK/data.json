@@ -1,0 +1,13 @@
+{
+  "name": "Republik",
+  "symbol": "RPK",
+  "decimals": 18,
+  "tokens": {
+    "goerli": {
+      "address": "0xc483695B56e20EA80d33aF7EEfDec9F08c2837A7"
+    },
+    "mantle-goerli": {
+      "address": "0xc483695B56e20EA80d33aF7EEfDec9F08c2837A7"
+    }
+  }
+}
