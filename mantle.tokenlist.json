@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-22T11:15:44.577Z",
+  "timestamp": "2023-12-23T16:19:03.510Z",
   "tokens": [
     {
       "chainId": 1,
@@ -820,50 +820,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 1,
-      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x2D001d79E5aF5F65a939781FE228B267a8Ed468B"
-      }
-    },
-    {
-      "chainId": 5000,
-      "address": "0x458ed78EB972a369799fb278c0243b25e5242A83",
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x9c46560D6209743968cC24150893631A39AfDe4d"
-      }
-    },
-    {
-      "chainId": 5,
-      "address": "0x6320cD32aA674d2898A68ec82e869385Fc5f7E2f",
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x2fD573Ace456904709444d04AdCa189fB19e725a"
-      }
-    },
-    {
-      "chainId": 5001,
-      "address": "0x4CAD3137E9e6994A6E9442e723B7EEF04335C944",
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x08C2EE913D3cb544D182bCC7632cB0B382A2933e"
       }
     }
   ],
