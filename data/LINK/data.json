@@ -3,6 +3,12 @@
   "symbol": "LINK",
   "decimals": 18,
   "tokens": {
+     "ethereum": {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+    },
+    "mantle": {
+      "address": "0x3B9d0D149070b952199943838a2c853dE0DAC776"
+    },   
     "goerli": {
       "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
     },
