@@ -1,0 +1,19 @@
+{
+  "name": "ApeX Token",
+  "symbol": "APEX",
+  "decimals": 18,
+  "description": "APEX is the native token of ApeX Protocol.",
+  "website": "https://pro.apex.exchange",
+  "twitter": "@OfficialApeXdex",
+  "tokens": {
+    "ethereum": {
+      "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8"
+    },
+    "goerli": {
+      "address": "0x6fDd9fa8237883de7c2ebC6908Ab9e243600567E"
+    },
+    "mantle-goerli": {
+      "address": "0x41bcA4Dbb2Db7DE606F6b7A44889408cf81C6564"
+    }
+  }
+}
