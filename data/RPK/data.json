@@ -2,6 +2,9 @@
   "name": "Republik",
   "symbol": "RPK",
   "decimals": 18,
+  "description": "RPK is utility token for Republik platform.",
+  "website": "https://republik.gg",
+  "twitter": "@RepubliK_GG",
   "tokens": {
     "goerli": {
       "address": "0xc483695B56e20EA80d33aF7EEfDec9F08c2837A7"
