@@ -6,8 +6,30 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-25T08:55:58.247Z",
+  "timestamp": "2024-01-02T03:26:57.994Z",
   "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x6fDd9fa8237883de7c2ebC6908Ab9e243600567E",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x41bcA4Dbb2Db7DE606F6b7A44889408cf81C6564",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 1,
       "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
