@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-01-02T03:26:57.994Z",
+  "timestamp": "2024-01-04T03:28:04.575Z",
   "tokens": [
     {
       "chainId": 5,
@@ -21,7 +21,7 @@
     },
     {
       "chainId": 5001,
-      "address": "0x41bcA4Dbb2Db7DE606F6b7A44889408cf81C6564",
+      "address": "0x2384d12ED00FFc257D1A55CfC135B3310433A86D",
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
