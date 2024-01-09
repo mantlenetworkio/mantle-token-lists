@@ -7,10 +7,10 @@
   "twitter": "@RepubliK_GG",
   "tokens": {
     "goerli": {
-      "address": "0x1F233585349B065924F14600FBDC4df33aD524F8"
+      "address": "0x342CD7D8CcAFa436F889F11902A58132Dc4f4B3F"
     },
     "mantle-goerli": {
-      "address": "0xc251BA15a91C4aca99a21b76d50e9B793a838421"
+      "address": "0x1F233585349B065924F14600FBDC4df33aD524F8"
     }
   }
 }
