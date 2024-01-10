@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-01-05T04:13:49.375Z",
+  "timestamp": "2024-01-10T07:59:54.860Z",
   "tokens": [
     {
       "chainId": 5,
@@ -598,6 +598,28 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x342CD7D8CcAFa436F889F11902A58132Dc4f4B3F",
+      "name": "Republik",
+      "symbol": "RPK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x1F233585349B065924F14600FBDC4df33aD524F8",
+      "name": "Republik",
+      "symbol": "RPK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
