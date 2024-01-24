@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-01-10T07:59:54.860Z",
+  "timestamp": "2024-01-24T05:16:35.377Z",
   "tokens": [
     {
       "chainId": 5,
@@ -22,6 +22,28 @@
     {
       "chainId": 5001,
       "address": "0x0D957d9664113ec8F727763B54a209FA2D112224",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x96630b0D78d29E7E8d87f8703dE7c14b2d5AE413",
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
