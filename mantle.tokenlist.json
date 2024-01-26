@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-01-24T05:16:35.377Z",
+  "timestamp": "2024-01-26T02:23:55.562Z",
   "tokens": [
     {
       "chainId": 5,
@@ -686,6 +686,28 @@
       "symbol": "SHIB",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x35d48a789904e9b15705977192e5d95e2af7f1d3",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
