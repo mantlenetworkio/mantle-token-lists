@@ -1,0 +1,13 @@
+{
+  "name": "Puff",
+  "symbol": "PUFF",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0x18fA05ee5e478EED8925946abb41d09AEc5d34D6"
+    },
+    "mantle": {
+      "address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140"
+    }
+  }
+}
