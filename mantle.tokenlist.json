@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-01-26T02:23:55.562Z",
+  "timestamp": "2024-02-20T09:25:26.141Z",
   "tokens": [
     {
       "chainId": 5,
@@ -620,6 +620,28 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x18fA05ee5e478EED8925946abb41d09AEc5d34D6",
+      "name": "Puff",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
+      "name": "Puff",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
