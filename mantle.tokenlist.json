@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-03-14T09:51:37.357Z",
+  "timestamp": "2024-03-14T11:21:20.859Z",
   "tokens": [
     {
       "chainId": 5,
@@ -527,7 +527,7 @@
     },
     {
       "chainId": 5003,
-      "address": "0xB785386c2bf4740bDE34AE9dad0D6EAA731D06E2",
+      "address": "0x9EF6f9160Ba00B6621e5CB3217BB8b54a92B2828",
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
