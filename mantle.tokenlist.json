@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-02-20T09:25:26.141Z",
+  "timestamp": "2024-03-14T08:32:58.010Z",
   "tokens": [
     {
       "chainId": 5,
@@ -506,6 +506,28 @@
     {
       "chainId": 5000,
       "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+      "name": "mETH",
+      "symbol": "mETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x072d71b257ECa6B60b5333626F6a55ea1B0c451c",
+      "name": "mETH",
+      "symbol": "mETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      }
+    },
+    {
+      "chainId": 5003,
+      "address": "0x658223D722F0E9D0Ec2484301865076866131017",
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
