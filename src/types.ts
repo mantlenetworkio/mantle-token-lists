@@ -24,6 +24,12 @@ export interface TokenData {
     sepolia?: Token
     'mantle-sepolia'?: Token
   }
+  extensions?: {
+    thirdparty?: {
+      name: string
+      url: string
+    }
+  }
 }
 
 export interface ValidationResult {
