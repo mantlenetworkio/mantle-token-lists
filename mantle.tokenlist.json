@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-03-14T11:21:20.859Z",
+  "timestamp": "2024-04-03T13:42:05.060Z",
   "tokens": [
     {
       "chainId": 5,
@@ -736,6 +736,34 @@
     },
     {
       "chainId": 1,
+      "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+      "name": "sUSDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Stargate",
+          "url": "https://stargate.finance/transfer"
+        }
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "sUSDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Stargate",
+          "url": "https://stargate.finance/transfer"
+        }
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
       "name": "Tellor Tributes",
       "symbol": "TRB",
@@ -820,6 +848,34 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8191DC3053Fe4564c17694cB203663d3C07B8960",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Stargate",
+          "url": "https://stargate.finance/transfer"
+        }
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Stargate",
+          "url": "https://stargate.finance/transfer"
+        }
       }
     },
     {

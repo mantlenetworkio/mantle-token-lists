@@ -1,0 +1,22 @@
+{
+  "name": "sUSDe",
+  "symbol": "sUSDe",
+  "decimals": 18,
+  "description": "sUSDe is a synthetic dollar, collateralized with crypto assets and corresponding short futures positions.",
+  "website": "https://www.ethena.fi",
+  "twitter": "@ethena_labs",
+  "tokens": {
+    "ethereum": {
+      "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497"
+    },
+    "mantle": {
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2"
+    }
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "Stargate",
+      "url": "https://stargate.finance/transfer"
+    }
+  }
+}

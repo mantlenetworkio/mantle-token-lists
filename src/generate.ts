@@ -32,10 +32,18 @@ export const generate = (datadir: string) => {
       const logofiles = glob.sync(
         `${path.join(datadir, folder)}/logo.{png,svg}`
       )
-      console.log('data:', data);
-      console.log('logofiles:', logofiles);
+      console.log('data:', data)
+      console.log('logofiles:', logofiles)
       const logoext = logofiles[0].endsWith('png') ? 'png' : 'svg'
       return Object.entries(data.tokens).map(([chain, token]) => {
+        const extensions = data?.extensions?.thirdparty
+          ? {
+              thirdparty: data.extensions.thirdparty,
+            }
+          : {
+              optimismBridgeAddress:
+                token.overrides?.bridge ?? NETWORK_DATA[chain].bridge,
+            }
         return {
           chainId: NETWORK_DATA[chain].id,
           address: token.address,
@@ -43,10 +51,7 @@ export const generate = (datadir: string) => {
           symbol: token.overrides?.symbol ?? data.symbol,
           decimals: token.overrides?.decimals ?? data.decimals,
           logoURI: `${BASE_URL}/data/${folder}/logo.${logoext}`,
-          extensions: {
-            optimismBridgeAddress:
-              token.overrides?.bridge ?? NETWORK_DATA[chain].bridge,
-          },
+          extensions,
         }
       })
     })
