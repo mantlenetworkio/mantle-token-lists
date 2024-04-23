@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-10T02:20:44.739Z",
+  "timestamp": "2024-04-23T10:40:15.641Z",
   "tokens": [
     {
       "chainId": 5,
@@ -17,6 +17,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "apex-token-2"
       }
     },
     {
@@ -28,6 +31,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "apex-token-2"
       }
     },
     {
@@ -39,6 +45,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "apex-token-2"
       }
     },
     {
@@ -50,6 +59,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "apex-token-2"
       }
     },
     {
@@ -61,6 +73,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "baby-doge-coin"
       }
     },
     {
@@ -72,6 +87,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "baby-doge-coin"
       }
     },
     {
@@ -83,6 +101,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "baby-doge-coin"
       }
     },
     {
@@ -94,6 +115,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "baby-doge-coin"
       }
     },
     {
@@ -105,6 +129,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "bella-protocol"
       }
     },
     {
@@ -116,6 +143,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "bella-protocol"
       }
     },
     {
@@ -149,6 +179,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ePendle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "equilibria-finance-ependle"
       }
     },
     {
@@ -160,6 +193,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ePendle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "equilibria-finance-ependle"
       }
     },
     {
@@ -171,6 +207,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "equilibria-finance"
       }
     },
     {
@@ -182,6 +221,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "equilibria-finance"
       }
     },
     {
@@ -193,6 +235,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -204,6 +249,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -215,6 +263,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -226,6 +277,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -237,6 +291,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -248,6 +305,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "ethereum"
       }
     },
     {
@@ -259,6 +319,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "floki"
       }
     },
     {
@@ -270,6 +333,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "floki"
       }
     },
     {
@@ -281,6 +347,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "floki"
       }
     },
     {
@@ -292,6 +361,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "floki"
       }
     },
     {
@@ -303,6 +375,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "idexo-token"
       }
     },
     {
@@ -314,6 +389,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "idexo-token"
       }
     },
     {
@@ -325,6 +403,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "charged-particles"
       }
     },
     {
@@ -336,6 +417,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "charged-particles"
       }
     },
     {
@@ -347,6 +431,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "charged-particles"
       }
     },
     {
@@ -358,6 +445,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "charged-particles"
       }
     },
     {
@@ -369,6 +459,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "chainlink"
       }
     },
     {
@@ -380,6 +473,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "chainlink"
       }
     },
     {
@@ -391,6 +487,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "liquity-usd"
       }
     },
     {
@@ -402,6 +501,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "liquity-usd"
       }
     },
     {
@@ -413,6 +515,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "liquity-usd"
       }
     },
     {
@@ -424,6 +529,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "liquity-usd"
       }
     },
     {
@@ -435,6 +543,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -446,6 +557,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -457,6 +571,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -468,6 +585,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -479,6 +599,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -490,6 +613,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle"
       }
     },
     {
@@ -501,6 +627,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -512,6 +641,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -523,6 +655,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -534,6 +669,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -545,6 +683,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -556,6 +697,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "mantle-staked-ether"
       }
     },
     {
@@ -567,6 +711,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "pendle"
       }
     },
     {
@@ -578,6 +725,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "pendle"
       }
     },
     {
@@ -589,6 +739,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "pendle"
       }
     },
     {
@@ -600,6 +753,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "pendle"
       }
     },
     {
@@ -611,6 +767,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "pepe"
       }
     },
     {
@@ -622,6 +781,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "pepe"
       }
     },
     {
@@ -633,6 +795,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "pepe"
       }
     },
     {
@@ -644,6 +809,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "pepe"
       }
     },
     {
@@ -655,6 +823,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "puff-the-dragon"
       }
     },
     {
@@ -666,6 +837,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "puff-the-dragon"
       }
     },
     {
@@ -677,6 +851,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "republik"
       }
     },
     {
@@ -688,6 +865,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "republik"
       }
     },
     {
@@ -699,6 +879,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "shiba-inu"
       }
     },
     {
@@ -710,6 +893,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "shiba-inu"
       }
     },
     {
@@ -721,6 +907,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "shiba-inu"
       }
     },
     {
@@ -732,6 +921,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "shiba-inu"
       }
     },
     {
@@ -743,9 +935,12 @@
       "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
       "extensions": {
         "thirdparty": {
-          "name": "Stargate",
+          "name": "LayerZero",
           "url": "https://stargate.finance/transfer"
         }
+      },
+      "tickers": {
+        "coingecko": "ethena-staked-usde"
       }
     },
     {
@@ -757,9 +952,12 @@
       "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
       "extensions": {
         "thirdparty": {
-          "name": "Stargate",
+          "name": "LayerZero",
           "url": "https://stargate.finance/transfer"
         }
+      },
+      "tickers": {
+        "coingecko": "ethena-staked-usde"
       }
     },
     {
@@ -771,6 +969,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "tellor"
       }
     },
     {
@@ -782,6 +983,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "tellor"
       }
     },
     {
@@ -793,6 +997,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "uniswap"
       }
     },
     {
@@ -804,6 +1011,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "uniswap"
       }
     },
     {
@@ -815,6 +1025,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "usd-coin"
       }
     },
     {
@@ -826,6 +1039,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "usd-coin"
       }
     },
     {
@@ -837,6 +1053,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "usd-coin"
       }
     },
     {
@@ -848,6 +1067,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "usd-coin"
       }
     },
     {
@@ -859,9 +1081,12 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
       "extensions": {
         "thirdparty": {
-          "name": "Stargate",
+          "name": "LayerZero",
           "url": "https://stargate.finance/transfer"
         }
+      },
+      "tickers": {
+        "coingecko": "ethena-usde"
       }
     },
     {
@@ -873,9 +1098,12 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
       "extensions": {
         "thirdparty": {
-          "name": "Stargate",
+          "name": "LayerZero",
           "url": "https://stargate.finance/transfer"
         }
+      },
+      "tickers": {
+        "coingecko": "ethena-usde"
       }
     },
     {
@@ -887,6 +1115,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "stable-usdlr"
       }
     },
     {
@@ -898,6 +1129,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "stable-usdlr"
       }
     },
     {
@@ -909,6 +1143,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "stable-usdlr"
       }
     },
     {
@@ -920,6 +1157,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "stable-usdlr"
       }
     },
     {
@@ -931,6 +1171,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "tether"
       }
     },
     {
@@ -942,6 +1185,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "tether"
       }
     },
     {
@@ -953,6 +1199,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "tether"
       }
     },
     {
@@ -964,6 +1213,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "tether"
       }
     },
     {
@@ -975,6 +1227,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "wrapped-bitcoin"
       }
     },
     {
@@ -986,6 +1241,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "wrapped-bitcoin"
       }
     },
     {
@@ -997,6 +1255,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      },
+      "tickers": {
+        "coingecko": "wrapped-bitcoin"
       }
     },
     {
@@ -1008,6 +1269,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "wrapped-bitcoin"
       }
     },
     {
@@ -1019,6 +1283,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x2D001d79E5aF5F65a939781FE228B267a8Ed468B"
+      },
+      "tickers": {
+        "coingecko": "wrapped-steth"
       }
     },
     {
@@ -1030,6 +1297,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x9c46560D6209743968cC24150893631A39AfDe4d"
+      },
+      "tickers": {
+        "coingecko": "wrapped-steth"
       }
     },
     {
@@ -1041,6 +1311,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x2fD573Ace456904709444d04AdCa189fB19e725a"
+      },
+      "tickers": {
+        "coingecko": "wrapped-steth"
       }
     },
     {
@@ -1052,6 +1325,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x08C2EE913D3cb544D182bCC7632cB0B382A2933e"
+      },
+      "tickers": {
+        "coingecko": "wrapped-steth"
       }
     }
   ],
