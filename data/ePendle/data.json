@@ -11,5 +11,8 @@
     "mantle": {
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0"
     }
+  },
+  "tickers": {
+    "coingecko": "equilibria-finance-ependle"
   }
 }

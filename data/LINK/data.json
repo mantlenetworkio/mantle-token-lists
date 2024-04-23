@@ -9,5 +9,8 @@
     "mantle-goerli": {
       "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01"
     }
+  },
+  "tickers": {
+    "coingecko": "chainlink"
   }
 }

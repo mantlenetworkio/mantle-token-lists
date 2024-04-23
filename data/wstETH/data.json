@@ -27,5 +27,8 @@
         "bridge": "0x08C2EE913D3cb544D182bCC7632cB0B382A2933e"
       }
     }
+  },
+  "tickers": {
+    "coingecko": "wrapped-steth"
   }
 }

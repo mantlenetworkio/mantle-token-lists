@@ -15,8 +15,11 @@
   },
   "extensions": {
     "thirdparty": {
-      "name": "Stargate",
+      "name": "LayerZero",
       "url": "https://stargate.finance/transfer"
     }
+  },
+  "tickers": {
+    "coingecko": "ethena-staked-usde"
   }
 }

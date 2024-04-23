@@ -18,5 +18,8 @@
     "mantle-goerli": {
       "address": "0x491FD73b7144371c04154A2a39FE5270C2E6A96A"
     }
+  },
+  "tickers": {
+    "coingecko": "floki"
   }
 }

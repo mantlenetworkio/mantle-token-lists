@@ -12,5 +12,8 @@
     "mantle-goerli": {
       "address": "0x1F233585349B065924F14600FBDC4df33aD524F8"
     }
+  },
+  "tickers": {
+    "coingecko": "republik"
   }
 }

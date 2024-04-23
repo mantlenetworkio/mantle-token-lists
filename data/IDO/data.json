@@ -1,16 +1,19 @@
 {
-    "name": "Idexo Token",
-    "symbol": "IDO",
-    "decimals": 18,
-    "description": "idexo: A no-code and low-code platform for NFT application innovation.",
-    "website": "https://idexo.com",
-    "twitter": "@idexo_io",
-    "tokens": {
-      "ethereum": {
-        "address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e"
-      },
-      "mantle": {
-        "address": "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796"
-      }
+  "name": "Idexo Token",
+  "symbol": "IDO",
+  "decimals": 18,
+  "description": "idexo: A no-code and low-code platform for NFT application innovation.",
+  "website": "https://idexo.com",
+  "twitter": "@idexo_io",
+  "tokens": {
+    "ethereum": {
+      "address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e"
+    },
+    "mantle": {
+      "address": "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796"
     }
+  },
+  "tickers": {
+    "coingecko": "idexo-token"
   }
+}

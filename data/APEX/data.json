@@ -18,5 +18,8 @@
     "mantle": {
       "address": "0x96630b0D78d29E7E8d87f8703dE7c14b2d5AE413"
     }
+  },
+  "tickers": {
+    "coingecko": "apex-token-2"
   }
 }

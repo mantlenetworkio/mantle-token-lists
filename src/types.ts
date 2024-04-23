@@ -24,6 +24,9 @@ export interface TokenData {
     sepolia?: Token
     'mantle-sepolia'?: Token
   }
+  tickers?: {
+    coingecko?: string
+  }
   extensions?: {
     thirdparty?: {
       name: string

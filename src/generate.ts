@@ -52,6 +52,7 @@ export const generate = (datadir: string) => {
           decimals: token.overrides?.decimals ?? data.decimals,
           logoURI: `${BASE_URL}/data/${folder}/logo.${logoext}`,
           extensions,
+          tickers: data.tickers,
         }
       })
     })
