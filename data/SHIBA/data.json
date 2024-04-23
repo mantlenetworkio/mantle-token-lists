@@ -18,5 +18,8 @@
     "mantle-goerli": {
       "address": "0x1Bf3876Dbe1db0Dd27D0b1cB61DEf968502f36d3"
     }
+  },
+  "tickers": {
+    "coingecko": "shiba-inu"
   }
 }

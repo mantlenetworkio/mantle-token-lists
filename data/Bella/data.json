@@ -12,5 +12,8 @@
     "mantle": {
       "address": "0x3390108e913824b8ead638444cc52b9abdf63798"
     }
+  },
+  "tickers": {
+    "coingecko": "bella-protocol"
   }
 }

@@ -21,5 +21,8 @@
     "mantle-goerli": {
       "address": "0x5fc6fe32871642Ea04E0651F54BE80546cF2173b"
     }
+  },
+  "tickers": {
+    "coingecko": "mantle-staked-ether"
   }
 }
