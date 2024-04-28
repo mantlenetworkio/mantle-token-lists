@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-23T10:40:15.641Z",
+  "timestamp": "2024-04-28T07:55:17.208Z",
   "tokens": [
     {
       "chainId": 5,
@@ -168,6 +168,40 @@
       "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+      "name": "Ethena Token",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ENA/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "LayerZero",
+          "url": "https://stargate.finance/transfer"
+        }
+      },
+      "tickers": {
+        "coingecko": "ethena"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      "name": "Ethena Token",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ENA/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "LayerZero",
+          "url": "https://stargate.finance/transfer"
+        }
+      },
+      "tickers": {
+        "coingecko": "ethena"
       }
     },
     {
