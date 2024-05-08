@@ -21,5 +21,8 @@
     "mantle-sepolia": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     }
+  },
+  "tickers": {
+    "coingecko": "ethereum"
   }
 }

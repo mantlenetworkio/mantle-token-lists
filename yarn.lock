@@ -1336,10 +1336,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mantleio/common-ts@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@mantleio/common-ts/-/common-ts-0.1.0.tgz#3f23546ec3d68834e3f76c506924d49ce6c3c093"
-  integrity sha512-tbqtjSdvahIRVqDjIbbUBiHZHP4ze+pcIsDtAyuztLowgyaXqnGR/VHYfiuEgAmeozKt8G4nks1vlZTMmd4bhA==
+"@mantleio/common-ts@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@mantleio/common-ts/-/common-ts-0.1.1.tgz#e0a57c1ff2f8b1b4745a4e7d6db9550a3adb4dcd"
+  integrity sha512-5bLHPEXrJBQpKgs6zukA8T/ROQ2J0dl8yRA3KZGWm4okWaGaHCtIkpjFUiZcL0TjGxctVC+TJ7AWkZToUYGvsA==
   dependencies:
     "@mantleio/core-utils" "0.1.0"
     "@sentry/node" "^6.3.1"

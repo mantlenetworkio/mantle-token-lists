@@ -1,0 +1,25 @@
+{
+  "name": "Ethena Token",
+  "symbol": "ENA",
+  "decimals": 18,
+  "description": "The Ethena (ENA) token is primarily designed for governance and utility within its ecosystem and as a mechanism to incentivize participation and investment in the protocol.",
+  "website": "https://www.ethena.fi",
+  "twitter": "@ethena_labs",
+  "tokens": {
+    "ethereum": {
+      "address": "0x57e114B691Db790C35207b2e685D4A43181e6061"
+    },
+    "mantle": {
+      "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133"
+    }
+  },
+  "tickers": {
+    "coingecko": "ethena"
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "LayerZero",
+      "url": "https://stargate.finance/transfer"
+    }
+  }
+}

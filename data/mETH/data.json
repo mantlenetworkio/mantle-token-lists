@@ -9,11 +9,20 @@
     "mantle": {
       "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0"
     },
+    "sepolia": {
+      "address": "0x072d71b257ECa6B60b5333626F6a55ea1B0c451c"
+    },
+    "mantle-sepolia": {
+      "address": "0x9EF6f9160Ba00B6621e5CB3217BB8b54a92B2828"
+    },
     "goerli": {
       "address": "0x20d7E093B3fa5eBfA7a0fa414FaD547743a2400F"
     },
     "mantle-goerli": {
       "address": "0x5fc6fe32871642Ea04E0651F54BE80546cF2173b"
     }
+  },
+  "tickers": {
+    "coingecko": "mantle-staked-ether"
   }
 }

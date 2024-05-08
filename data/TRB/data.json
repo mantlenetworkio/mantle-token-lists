@@ -1,0 +1,19 @@
+{
+  "name": "Tellor Tributes",
+  "symbol": "TRB",
+  "decimals": 18,
+  "description": "Tellor Tributes secure the Tellor oracle network",
+  "website": "https://tellor.io",
+  "twitter": "@wearetellor",
+  "tokens": {
+    "ethereum": {
+      "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+    },
+    "mantle": {
+      "address": "0x35d48a789904e9b15705977192e5d95e2af7f1d3"
+    }
+  },
+  "tickers": {
+    "coingecko": "tellor"
+  }
+}

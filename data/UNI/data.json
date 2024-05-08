@@ -9,5 +9,8 @@
     "mantle-goerli": {
       "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37"
     }
+  },
+  "tickers": {
+    "coingecko": "uniswap"
   }
 }

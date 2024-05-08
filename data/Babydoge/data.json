@@ -18,5 +18,8 @@
     "mantle-goerli": {
       "address": "0x20cc47b797e50f2b9ecaC0A6445D8a9E149856c1"
     }
+  },
+  "tickers": {
+    "coingecko": "baby-doge-coin"
   }
 }
