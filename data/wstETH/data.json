@@ -26,6 +26,18 @@
       "overrides": {
         "bridge": "0x08C2EE913D3cb544D182bCC7632cB0B382A2933e"
       }
+    },
+    "sepolia": {
+      "address": "0xB82381A3fBD3FaFA77B3a7bE693342618240067b",
+      "overrides": {
+        "bridge": "0x77E37f2Fc3a734bD5832e0569b58aEF44369bE6a"
+      }
+    },
+    "mantle-sepolia": {
+      "address": "0xa4c6370CcF0ec33B785B33E81341727e635aCcd0",
+      "overrides": {
+        "bridge": "0xfa66ce03c3b7C1D3047e06660105f706b16029a0"
+      }
     }
   },
   "tickers": {
