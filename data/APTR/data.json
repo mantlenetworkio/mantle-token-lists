@@ -1,0 +1,21 @@
+{
+    "name": "Aperture",
+    "symbol": "APTR",
+    "decimals": 6,
+    "description": "AI Powered Intents, the future of DeFi UX",
+    "website": "https://aperture.finance/",
+    "twitter": "@ApertureFinance",
+    "tokens": {
+      "ethereum": {
+        "address": "0xBEEF01060047522408756E0000A90ce195A70000"
+      },
+      "mantle": {
+        "address": "0x5Be55773DC6f8ACA49A5F3A0eb10DC1Fa3277421"
+      }
+    },
+    "tickers": {
+        "coingecko": "aperture-finance"
+    }
+}
+
+  
