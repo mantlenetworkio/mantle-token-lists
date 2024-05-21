@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-08T09:44:39.467Z",
+  "timestamp": "2024-05-21T02:56:02.208Z",
   "tokens": [
     {
       "chainId": 5,
@@ -62,6 +62,34 @@
       },
       "tickers": {
         "coingecko": "apex-token-2"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEEF01060047522408756E0000A90ce195A70000",
+      "name": "Aperture",
+      "symbol": "APTR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/APTR/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "aperture-finance"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x91824fc3573c5043837F6357b72F60014A710501",
+      "name": "Aperture",
+      "symbol": "APTR",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/APTR/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "aperture-finance"
       }
     },
     {
