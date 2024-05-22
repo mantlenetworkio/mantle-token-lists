@@ -2,12 +2,19 @@
   "name": "Uniswap",
   "symbol": "UNI",
   "decimals": 18,
+  "website": "https://uniswap.org/",
   "tokens": {
+    "ethereum": {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+    },
     "goerli": {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
     },
     "mantle-goerli": {
       "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37"
+    },
+    "mantle": {
+      "address": "0x2dB08783F13c4225A1963b2437f0D459a5BCB4D8"
     }
   },
   "tickers": {
