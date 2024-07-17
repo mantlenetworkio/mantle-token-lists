@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-06T03:48:00.128Z",
+  "timestamp": "2024-07-17T09:50:19.585Z",
   "tokens": [
     {
       "chainId": 5,
@@ -414,6 +414,40 @@
       },
       "tickers": {
         "coingecko": "ethereum"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+      "name": "Ignition FBTC",
+      "symbol": "FBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "FBTC Bridge",
+          "url": "https://fbtc.com/bridge"
+        }
+      },
+      "tickers": {
+        "coingecko": "ignition-fbtc"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+      "name": "Ignition FBTC",
+      "symbol": "FBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "FBTC Bridge",
+          "url": "https://fbtc.com/bridge"
+        }
+      },
+      "tickers": {
+        "coingecko": "ignition-fbtc"
       }
     },
     {
