@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-17T09:50:19.585Z",
+  "timestamp": "2024-08-01T07:26:10.222Z",
   "tokens": [
     {
       "chainId": 5,
@@ -240,6 +240,34 @@
       "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+      "name": "DODO bird",
+      "symbol": "DODO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "dodo"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xD0CF7dfbF09CAfaB8AEf00e0Ce19a4638004a364",
+      "name": "DODO bird",
+      "symbol": "DODO",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "dodo"
       }
     },
     {
