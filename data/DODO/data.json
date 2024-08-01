@@ -1,0 +1,19 @@
+{
+  "name": "DODO bird",
+  "symbol": "DODO",
+  "decimals": 18,
+  "description": "DODO's native token",
+  "website": "https://dodoex.io/",
+  "twitter": "@BreederDodo",
+  "tokens": {
+    "ethereum": {
+      "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd"
+    },
+    "mantle": {
+      "address": "0xD0CF7dfbF09CAfaB8AEf00e0Ce19a4638004a364"
+    }
+  }
+  "tickers": {
+    "coingecko": "dodo"
+  }
+}
