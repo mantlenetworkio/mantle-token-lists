@@ -1,0 +1,20 @@
+{
+    "name": "Ember Sword",
+    "symbol": "EMBER",
+    "decimals": 18,
+    "description": "$EMBER is an ERC-20 token and is used for all on-chain activities in Ember Sword",
+    "website": "https://embersword.com",
+    "twitter": "@PlayEmberSword",
+    "tokens": {
+      "sepolia": {
+        "address": "0x51543e1574d8580436f53519EEC4eEAA300BAC33"
+      },
+      "mantle-sepolia": {
+        "address": "0x142BF6684010E5672457a5347d05364295dF1e32"
+      }
+    },
+    "tickers": {
+      "coingecko": "ember-sword"
+    }
+  }
+  
