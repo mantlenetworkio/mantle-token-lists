@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-01T07:26:10.222Z",
+  "timestamp": "2024-09-06T01:30:09.880Z",
   "tokens": [
     {
       "chainId": 5,
@@ -268,6 +268,34 @@
       },
       "tickers": {
         "coingecko": "dodo"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x51543e1574d8580436f53519EEC4eEAA300BAC33",
+      "name": "Ember Sword",
+      "symbol": "EMBER",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      },
+      "tickers": {
+        "coingecko": "ember-sword"
+      }
+    },
+    {
+      "chainId": 5003,
+      "address": "0x142BF6684010E5672457a5347d05364295dF1e32",
+      "name": "Ember Sword",
+      "symbol": "EMBER",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "ember-sword"
       }
     },
     {
