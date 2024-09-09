@@ -6,6 +6,12 @@
     "website": "https://embersword.com",
     "twitter": "@PlayEmberSword",
     "tokens": {
+      "ethereum": {
+        "address": "0x35F3bAD2FCC8053869086885f7898a3D4309Db4E"
+      },
+      "mantle": {
+        "address": "0x056D4A69D243F176F6d1668722BE386c3D50e27b"
+      },
       "sepolia": {
         "address": "0x51543e1574d8580436f53519EEC4eEAA300BAC33"
       },
