@@ -8,6 +8,12 @@
     },
     "mantle-goerli": {
       "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01"
+    },
+    "sepolia": {
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
+    },
+    "mantle-sepolia": {
+      "address": "0x567B10818d6fdD653F0331b5Df08968Ca826bE88"
     }
   },
   "tickers": {
