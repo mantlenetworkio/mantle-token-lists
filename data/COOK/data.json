@@ -1,0 +1,19 @@
+{
+  "name": "COOK",
+  "symbol": "COOK",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D"
+    },
+    "mantle": {
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D"
+    }
+  },
+  "extensions": {
+    "external": {
+      "name": "mETH Protocol",
+      "url": "https://meth.mantle.xyz/bridge?token=cook"
+    }
+  }
+}

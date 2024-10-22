@@ -1,0 +1,19 @@
+{
+  "name": "cmETH",
+  "symbol": "cmETH",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA"
+    },
+    "mantle": {
+      "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA"
+    }
+  },
+  "extensions": {
+    "external": {
+      "name": "mETH Protocol",
+      "url": "https://meth.mantle.xyz/bridge?token=cmeth"
+    }
+  }
+}

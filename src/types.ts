@@ -32,6 +32,10 @@ export interface TokenData {
       name: string
       url: string
     }
+    external?: {
+      name: string
+      url: string
+    }
   }
 }
 
