@@ -36,14 +36,22 @@ export const generate = (datadir: string) => {
       console.log('logofiles:', logofiles)
       const logoext = logofiles[0].endsWith('png') ? 'png' : 'svg'
       return Object.entries(data.tokens).map(([chain, token]) => {
-        const extensions = data?.extensions?.thirdparty
-          ? {
-              thirdparty: data.extensions.thirdparty,
-            }
-          : {
-              optimismBridgeAddress:
-                token.overrides?.bridge ?? NETWORK_DATA[chain].bridge,
-            }
+        const extensions: any = {}
+        switch (true) {
+          case !!data?.extensions?.thirdparty:
+            extensions.thirdparty = data.extensions.thirdparty
+            break
+
+          case !!data?.extensions?.external:
+            extensions.external = data.extensions.external
+            break
+
+          default:
+            extensions.optimismBridgeAddress =
+              token.overrides?.bridge ?? NETWORK_DATA[chain].bridge
+            break
+        }
+
         return {
           chainId: NETWORK_DATA[chain].id,
           address: token.address,
