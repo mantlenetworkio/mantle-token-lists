@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-09-09T11:21:37.487Z",
+  "timestamp": "2024-10-23T03:42:01.263Z",
   "tokens": [
     {
       "chainId": 5,
@@ -174,6 +174,62 @@
       },
       "tickers": {
         "coingecko": "bella-protocol"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+      "name": "cmETH",
+      "symbol": "cmETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
+      "extensions": {
+        "external": {
+          "name": "mETH Protocol",
+          "url": "https://meth.mantle.xyz/bridge?token=cmeth"
+        }
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+      "name": "cmETH",
+      "symbol": "cmETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
+      "extensions": {
+        "external": {
+          "name": "mETH Protocol",
+          "url": "https://meth.mantle.xyz/bridge?token=cmeth"
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+      "name": "COOK",
+      "symbol": "COOK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
+      "extensions": {
+        "external": {
+          "name": "mETH Protocol",
+          "url": "https://meth.mantle.xyz/bridge?token=cook"
+        }
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+      "name": "COOK",
+      "symbol": "COOK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
+      "extensions": {
+        "external": {
+          "name": "mETH Protocol",
+          "url": "https://meth.mantle.xyz/bridge?token=cook"
+        }
       }
     },
     {
