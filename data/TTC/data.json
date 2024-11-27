@@ -1,0 +1,13 @@
+{
+  "name": "TETESCOIN",
+  "symbol": "TTC",
+  "decimals": 2,
+  "description": "Let memes coins growup",
+  "website": "https://ttc.com",
+  "twitter": "@ttcmeme",
+  "tokens": {
+    "mantle": {
+      "address": "0xfd493cCdA54fB4602DC733bAaDCa5D2008E811Ab"
+    }
+  }
+}
