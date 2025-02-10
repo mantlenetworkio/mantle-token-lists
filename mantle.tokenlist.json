@@ -1,12 +1,8 @@
 {
   "name": "Mantle",
   "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
-  "keywords": [
-    "scaling",
-    "layer2",
-    "infrastructure"
-  ],
-  "timestamp": "2025-02-10T06:33:30.622Z",
+  "keywords": ["scaling", "layer2", "infrastructure"],
+  "timestamp": "2025-01-26T01:06:17.642Z",
   "tokens": [
     {
       "chainId": 5,
@@ -236,6 +232,28 @@
           "name": "mETH Protocol",
           "url": "https://meth.mantle.xyz/bridge?token=cmeth"
         }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x52b7D8851d6CcBC6342ba0855Be65f7B82A3F17f",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
     {

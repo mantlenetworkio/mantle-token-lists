@@ -1,0 +1,16 @@
+{
+  "name": "Compound",
+  "symbol": "COMP",
+  "decimals": 18,
+  "description": "The COMP token is a governance token on the Compound protocol, a decentralized lending and borrowing platform. COMP tokens allow users to participate in the protocol's governance, which includes proposing and voting on changes to the platform.",
+  "website": "https://compound.finance/",
+  "twitter": "@growcompound",
+  "tokens": {
+    "ethereum": {
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
+    },
+    "mantle": {
+      "address": "0x52b7D8851d6CcBC6342ba0855Be65f7B82A3F17f"
+    }
+  }
+}
