@@ -1,0 +1,22 @@
+{
+  "name": "iZUMi Finance",
+  "symbol": "IZI",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200"
+    },
+    "mantle": {
+      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747"
+    }
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "Symbiosis",
+      "url": "https://app.symbiosis.finance/swap"
+    }
+  },
+  "tickers": {
+    "coingecko": "izumi-finance"
+  }
+}
