@@ -1,8 +1,12 @@
 {
   "name": "Mantle",
-  "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
-  "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2025-01-26T01:06:17.642Z",
+  "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/mantle_logo.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2025-02-10T08:21:32.111Z",
   "tokens": [
     {
       "chainId": 5,
@@ -10,7 +14,7 @@
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -24,7 +28,7 @@
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -38,7 +42,7 @@
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -52,7 +56,7 @@
       "name": "ApeX Token",
       "symbol": "APEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APEX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -66,7 +70,7 @@
       "name": "Aperture",
       "symbol": "APTR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/APTR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APTR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -80,7 +84,7 @@
       "name": "Aperture",
       "symbol": "APTR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/APTR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/APTR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -94,7 +98,7 @@
       "name": "Axelar",
       "symbol": "AXL",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/AXL/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/AXL/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -111,7 +115,7 @@
       "name": "Axelar",
       "symbol": "AXL",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/AXL/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/AXL/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -128,7 +132,7 @@
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -142,7 +146,7 @@
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -156,7 +160,7 @@
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -170,7 +174,7 @@
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Babydoge/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -184,7 +188,7 @@
       "name": "Bella",
       "symbol": "BEL",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Bella/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -198,7 +202,7 @@
       "name": "Bella",
       "symbol": "BEL",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Bella/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -212,7 +216,7 @@
       "name": "cmETH",
       "symbol": "cmETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/cmETH/logo.svg",
       "extensions": {
         "external": {
           "name": "mETH Protocol",
@@ -226,7 +230,7 @@
       "name": "cmETH",
       "symbol": "cmETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/cmETH/logo.svg",
       "extensions": {
         "external": {
           "name": "mETH Protocol",
@@ -240,7 +244,7 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/COMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
@@ -251,7 +255,7 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/COMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -262,7 +266,7 @@
       "name": "COOK",
       "symbol": "COOK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/COOK/logo.svg",
       "extensions": {
         "external": {
           "name": "mETH Protocol",
@@ -276,7 +280,7 @@
       "name": "COOK",
       "symbol": "COOK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/COOK/logo.svg",
       "extensions": {
         "external": {
           "name": "mETH Protocol",
@@ -290,7 +294,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/CRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
@@ -301,7 +305,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/CRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -312,7 +316,7 @@
       "name": "Curve.Fi USD Stablecoin",
       "symbol": "crvUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/crvUSD/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/crvUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
@@ -323,7 +327,7 @@
       "name": "Curve.Fi USD Stablecoin",
       "symbol": "crvUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/crvUSD/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/crvUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -334,7 +338,7 @@
       "name": "Custom UPS",
       "symbol": "CUPS",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/CUPS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       }
@@ -345,7 +349,7 @@
       "name": "Custom UPS",
       "symbol": "CUPS",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/CUPS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -356,7 +360,7 @@
       "name": "DODO bird",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/DODO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -370,7 +374,7 @@
       "name": "DODO bird",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/DODO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -384,7 +388,7 @@
       "name": "Ember Sword",
       "symbol": "EMBER",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EMBER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -398,7 +402,7 @@
       "name": "Ember Sword",
       "symbol": "EMBER",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EMBER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -412,7 +416,7 @@
       "name": "Ember Sword",
       "symbol": "EMBER",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EMBER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
       },
@@ -426,7 +430,7 @@
       "name": "Ember Sword",
       "symbol": "EMBER",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EMBER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -440,7 +444,7 @@
       "name": "Ethena Token",
       "symbol": "ENA",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ENA/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ENA/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -457,7 +461,7 @@
       "name": "Ethena Token",
       "symbol": "ENA",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ENA/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ENA/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -474,7 +478,7 @@
       "name": "Equilibria Pendle",
       "symbol": "ePendle",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ePendle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ePendle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -488,7 +492,7 @@
       "name": "Equilibria Pendle",
       "symbol": "ePendle",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ePendle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ePendle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -502,7 +506,7 @@
       "name": "Equilibria Token",
       "symbol": "EQB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EQB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -516,7 +520,7 @@
       "name": "Equilibria Token",
       "symbol": "EQB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/EQB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -530,7 +534,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -544,7 +548,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -558,7 +562,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -572,7 +576,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -586,7 +590,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
       },
@@ -600,7 +604,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -614,7 +618,7 @@
       "name": "Ignition FBTC",
       "symbol": "FBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/FBTC/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "FBTC Bridge",
@@ -631,7 +635,7 @@
       "name": "Ignition FBTC",
       "symbol": "FBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/FBTC/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "FBTC Bridge",
@@ -648,7 +652,7 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -662,7 +666,7 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -676,7 +680,7 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -690,7 +694,7 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
-      "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Floki/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -704,7 +708,7 @@
       "name": "ImpermaxFinance Token",
       "symbol": "IBEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IBEX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IBEX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -718,7 +722,7 @@
       "name": "ImpermaxFinance Token",
       "symbol": "IBEX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IBEX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IBEX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -732,7 +736,7 @@
       "name": "Idexo Token",
       "symbol": "IDO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -746,7 +750,7 @@
       "name": "Idexo Token",
       "symbol": "IDO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -760,7 +764,7 @@
       "name": "IONX",
       "symbol": "IONX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -774,7 +778,7 @@
       "name": "IONX",
       "symbol": "IONX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -788,7 +792,7 @@
       "name": "IONX",
       "symbol": "IONX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -802,7 +806,7 @@
       "name": "IONX",
       "symbol": "IONX",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IONX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -816,7 +820,7 @@
       "name": "iZUMi Bond USD",
       "symbol": "iUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/iUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/iUSD/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -833,7 +837,7 @@
       "name": "iZUMi Bond USD",
       "symbol": "iUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/iUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/iUSD/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -850,7 +854,7 @@
       "name": "iZUMi Finance",
       "symbol": "IZI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IZI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IZI/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -867,7 +871,7 @@
       "name": "iZUMi Finance",
       "symbol": "IZI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/IZI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/IZI/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -884,7 +888,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -898,7 +902,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LINK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -912,7 +916,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -926,7 +930,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -940,7 +944,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -954,7 +958,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/LUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -968,7 +972,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -982,7 +986,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -996,7 +1000,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1010,7 +1014,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1024,7 +1028,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
       },
@@ -1038,7 +1042,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Mantle/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1052,7 +1056,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1066,7 +1070,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1080,7 +1084,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
       },
@@ -1094,7 +1098,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1108,7 +1112,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1122,7 +1126,7 @@
       "name": "mETH",
       "symbol": "mETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/mETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1136,7 +1140,7 @@
       "name": "PENDLE",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1150,7 +1154,7 @@
       "name": "PENDLE",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1164,7 +1168,7 @@
       "name": "PENDLE",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1178,7 +1182,7 @@
       "name": "PENDLE",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PENDLE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1192,7 +1196,7 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1206,7 +1210,7 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1220,7 +1224,7 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1234,7 +1238,7 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/PEPE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1248,7 +1252,7 @@
       "name": "Puff",
       "symbol": "PUFF",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Puff/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1262,7 +1266,7 @@
       "name": "Puff",
       "symbol": "PUFF",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/Puff/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1276,7 +1280,7 @@
       "name": "Republik",
       "symbol": "RPK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/RPK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1290,7 +1294,7 @@
       "name": "Republik",
       "symbol": "RPK",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/RPK/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/RPK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1304,7 +1308,7 @@
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1318,7 +1322,7 @@
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1332,7 +1336,7 @@
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1346,7 +1350,7 @@
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SHIBA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1360,7 +1364,7 @@
       "name": "sUSDe",
       "symbol": "sUSDe",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SUSDE/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -1377,7 +1381,7 @@
       "name": "sUSDe",
       "symbol": "sUSDe",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/SUSDE/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -1394,7 +1398,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/TRB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1408,7 +1412,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/TRB/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1422,7 +1426,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1436,7 +1440,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1450,7 +1454,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1464,7 +1468,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1478,7 +1482,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1492,7 +1496,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1506,7 +1510,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1520,7 +1524,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1534,7 +1538,7 @@
       "name": "USDe",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDE/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -1551,7 +1555,7 @@
       "name": "USDe",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDE/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "LayerZero",
@@ -1568,7 +1572,7 @@
       "name": "USDLR by Stable",
       "symbol": "USDLR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1582,7 +1586,7 @@
       "name": "USDLR by Stable",
       "symbol": "USDLR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1596,7 +1600,7 @@
       "name": "USDLR by Stable",
       "symbol": "USDLR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1610,7 +1614,7 @@
       "name": "USDLR by Stable",
       "symbol": "USDLR",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDLR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1624,7 +1628,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1638,7 +1642,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1652,7 +1656,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1666,7 +1670,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1680,7 +1684,7 @@
       "name": "Ondo US Dollar Yield",
       "symbol": "USDY",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/USDY/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDY/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -1697,7 +1701,7 @@
       "name": "Ondo US Dollar Yield",
       "symbol": "USDY",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/USDY/logo.png",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/USDY/logo.png",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -1714,7 +1718,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -1728,7 +1732,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1742,7 +1746,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
       },
@@ -1756,7 +1760,7 @@
       "name": "Wrapped BTC L2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -1770,7 +1774,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/WETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WETH/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -1787,7 +1791,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/WETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/WETH/logo.svg",
       "extensions": {
         "thirdparty": {
           "name": "Symbiosis",
@@ -1804,7 +1808,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x2D001d79E5aF5F65a939781FE228B267a8Ed468B"
       },
@@ -1818,7 +1822,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x9c46560D6209743968cC24150893631A39AfDe4d"
       },
@@ -1832,7 +1836,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x2fD573Ace456904709444d04AdCa189fB19e725a"
       },
@@ -1846,7 +1850,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x08C2EE913D3cb544D182bCC7632cB0B382A2933e"
       },
@@ -1860,7 +1864,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x77E37f2Fc3a734bD5832e0569b58aEF44369bE6a"
       },
@@ -1874,7 +1878,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
+      "logoURI": "https://mantle-token-lists-git-feat-add-token-mantle-sandbox.vercel.app/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xfa66ce03c3b7C1D3047e06660105f706b16029a0"
       },
