@@ -1,0 +1,22 @@
+{
+  "name": "Wrapped ETH",
+  "symbol": "WETH",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    "mantle": {
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+    }
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "Symbiosis",
+      "url": "https://app.symbiosis.finance/swap"
+    }
+  },
+  "tickers": {
+    "coingecko": "weth"
+  }
+}

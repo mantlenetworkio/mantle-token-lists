@@ -1,0 +1,22 @@
+{
+  "name": "Axelar",
+  "symbol": "AXL",
+  "decimals": 6,
+  "tokens": {
+    "ethereum": {
+      "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3"
+    },
+    "mantle": {
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+    }
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "Symbiosis",
+      "url": "https://app.symbiosis.finance/swap"
+    }
+  },
+  "tickers": {
+    "coingecko": "axelar"
+  }
+}

@@ -1,11 +1,7 @@
 {
   "name": "Mantle",
   "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
-  "keywords": [
-    "scaling",
-    "layer2",
-    "infrastructure"
-  ],
+  "keywords": ["scaling", "layer2", "infrastructure"],
   "timestamp": "2025-01-26T01:06:17.642Z",
   "tokens": [
     {
