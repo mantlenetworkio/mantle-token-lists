@@ -1,8 +1,12 @@
 {
   "name": "Mantle",
   "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
-  "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2025-01-26T01:06:17.642Z",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2025-02-11T06:05:55.963Z",
   "tokens": [
     {
       "chainId": 5,
@@ -86,6 +90,40 @@
       },
       "tickers": {
         "coingecko": "aperture-finance"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/AXL/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "axelar"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/AXL/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "axelar"
       }
     },
     {
@@ -774,6 +812,74 @@
       },
       "tickers": {
         "coingecko": "charged-particles"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/iUSD/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "izumi-bond-usd"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/iUSD/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "izumi-bond-usd"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+      "name": "iZUMi Finance",
+      "symbol": "IZI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IZI/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "izumi-finance"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+      "name": "iZUMi Finance",
+      "symbol": "IZI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IZI/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "izumi-finance"
       }
     },
     {
@@ -1574,6 +1680,40 @@
     },
     {
       "chainId": 1,
+      "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USDY/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "ondo-us-dollar-yield"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USDY/logo.png",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "ondo-us-dollar-yield"
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -1626,6 +1766,40 @@
       },
       "tickers": {
         "coingecko": "wrapped-bitcoin"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/WETH/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "weth"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/WETH/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "Symbiosis",
+          "url": "https://app.symbiosis.finance/swap"
+        }
+      },
+      "tickers": {
+        "coingecko": "weth"
       }
     },
     {
