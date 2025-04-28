@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-02-11T06:05:55.963Z",
+  "timestamp": "2025-04-28T08:38:57.514Z",
   "tokens": [
     {
       "chainId": 5,
@@ -222,6 +222,9 @@
           "name": "mETH Protocol",
           "url": "https://meth.mantle.xyz/bridge?token=cmeth"
         }
+      },
+      "tickers": {
+        "coingecko": "mantle-restaked-eth"
       }
     },
     {
@@ -236,6 +239,9 @@
           "name": "mETH Protocol",
           "url": "https://meth.mantle.xyz/bridge?token=cmeth"
         }
+      },
+      "tickers": {
+        "coingecko": "mantle-restaked-eth"
       }
     },
     {
@@ -247,6 +253,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "compound-governance-token"
       }
     },
     {
@@ -258,6 +267,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "compound-governance-token"
       }
     },
     {
@@ -272,6 +284,9 @@
           "name": "mETH Protocol",
           "url": "https://meth.mantle.xyz/bridge?token=cook"
         }
+      },
+      "tickers": {
+        "coingecko": "meth-protocol"
       }
     },
     {
@@ -286,6 +301,9 @@
           "name": "mETH Protocol",
           "url": "https://meth.mantle.xyz/bridge?token=cook"
         }
+      },
+      "tickers": {
+        "coingecko": "meth-protocol"
       }
     },
     {
@@ -297,6 +315,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "curve-dao-token"
       }
     },
     {
@@ -308,6 +329,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "curve-dao-token"
       }
     },
     {
@@ -319,6 +343,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/crvUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "crvusd"
       }
     },
     {
@@ -330,6 +357,9 @@
       "logoURI": "https://token-list.mantle.xyz/data/crvUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "crvusd"
       }
     },
     {
