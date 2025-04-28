@@ -12,5 +12,8 @@
     "mantle": {
       "address": "0xE265FC71d45fd791c9ebf3EE0a53FBB220Eb8f75"
     }
+  },
+  "tickers": {
+    "coingecko": "curve-dao-token"
   }
 }
