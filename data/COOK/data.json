@@ -15,5 +15,8 @@
       "name": "mETH Protocol",
       "url": "https://meth.mantle.xyz/bridge?token=cook"
     }
+  },
+  "tickers": {
+    "coingecko": "meth-protocol"
   }
 }
