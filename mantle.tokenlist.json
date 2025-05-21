@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-04-28T08:38:57.514Z",
+  "timestamp": "2025-05-21T23:42:00.460Z",
   "tokens": [
     {
       "chainId": 5,
@@ -312,7 +312,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -326,7 +326,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
@@ -390,7 +390,7 @@
       "name": "DODO bird",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
       },
@@ -404,7 +404,7 @@
       "name": "DODO bird",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       },
