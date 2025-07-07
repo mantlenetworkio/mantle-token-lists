@@ -37,6 +37,13 @@ export const NETWORK_DATA = {
     pair: 'mantle',
     bridge: '0x4200000000000000000000000000000000000010',
   },
+  'bsc-testnet': {
+    id: 97,
+    name: 'bsc-testnet',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://bsc-testnet.drpc.org'
+    ),
+  },
   sepolia: {
     id: 11155111,
     name: 'sepolia',

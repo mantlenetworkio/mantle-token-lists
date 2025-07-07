@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-05-21T23:42:00.460Z",
+  "timestamp": "2025-07-07T07:50:55.977Z",
   "tokens": [
     {
       "chainId": 5,
@@ -1062,6 +1062,18 @@
       "extensions": {
         "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
       },
+      "tickers": {
+        "coingecko": "mantle"
+      }
+    },
+    {
+      "chainId": 97,
+      "address": "0xCdb3D2dC427A5BC9aF54a9c2Ed2F5950619184BF",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {},
       "tickers": {
         "coingecko": "mantle"
       }

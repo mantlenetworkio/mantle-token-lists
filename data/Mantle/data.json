@@ -18,6 +18,9 @@
     "sepolia": {
       "address": "0x65e37B558F64E2Be5768DB46DF22F93d85741A9E"
     },
+    "bsc-testnet": {
+      "address": "0xCdb3D2dC427A5BC9aF54a9c2Ed2F5950619184BF"
+    },
     "mantle-sepolia": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
