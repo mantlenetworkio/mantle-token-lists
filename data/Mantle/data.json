@@ -21,6 +21,9 @@
     "bsc-testnet": {
       "address": "0xCdb3D2dC427A5BC9aF54a9c2Ed2F5950619184BF"
     },
+    "hyperliquid-testnet": {
+      "address": "0xb51541df05de07be38dcfc4a80c05389a54502bb"
+    },
     "mantle-sepolia": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
