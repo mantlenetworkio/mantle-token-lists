@@ -18,6 +18,12 @@
     "sepolia": {
       "address": "0x65e37B558F64E2Be5768DB46DF22F93d85741A9E"
     },
+    "bsc": {
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
+    },
+    "hyperliquid": {
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
+    },
     "bsc-testnet": {
       "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
     },

@@ -58,6 +58,13 @@ export const NETWORK_DATA = {
       'https://bsc-testnet.drpc.org'
     ),
   },
+  bsc: {
+    id: 56,
+    name: 'bsc',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://bsc.drpc.org'
+    ),
+  },
   sepolia: {
     id: 11155111,
     name: 'sepolia',
