@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-07-10T03:18:52.143Z",
+  "timestamp": "2025-07-14T02:50:26.575Z",
   "tokens": [
     {
       "chainId": 5,
@@ -1068,7 +1068,7 @@
     },
     {
       "chainId": 97,
-      "address": "0xCdb3D2dC427A5BC9aF54a9c2Ed2F5950619184BF",
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6",
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
@@ -1080,7 +1080,7 @@
     },
     {
       "chainId": 998,
-      "address": "0xb51541df05de07be38dcfc4a80c05389a54502bb",
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6",
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
