@@ -37,6 +37,34 @@ export const NETWORK_DATA = {
     pair: 'mantle',
     bridge: '0x4200000000000000000000000000000000000010',
   },
+  'hyperliquid-testnet': {
+    id: 998,
+    name: 'hyperliquid-testnet',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://rpc.hyperliquid-testnet.xyz/evm'
+    ),
+  },
+  hyperliquid: {
+    id: 999,
+    name: 'hyperliquid',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://rpc.hyperliquid.xyz/evm'
+    ),
+  },
+  'bsc-testnet': {
+    id: 97,
+    name: 'bsc-testnet',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://bsc-testnet.drpc.org'
+    ),
+  },
+  bsc: {
+    id: 56,
+    name: 'bsc',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://bsc.drpc.org'
+    ),
+  },
   sepolia: {
     id: 11155111,
     name: 'sepolia',

@@ -18,6 +18,15 @@
     "sepolia": {
       "address": "0x65e37B558F64E2Be5768DB46DF22F93d85741A9E"
     },
+    "hyperliquid": {
+      "address": "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b"
+    },
+    "bsc-testnet": {
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
+    },
+    "hyperliquid-testnet": {
+      "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
+    },
     "mantle-sepolia": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
