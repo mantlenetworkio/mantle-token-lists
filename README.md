@@ -153,6 +153,37 @@ If you require overrides for specific tokens, you can include the `overrides` fi
 }
 ```
 
+#### OFT (Omnichain Fungible Token) tokens
+
+If your token uses the OFT (Omnichain Fungible Token) standard for cross-chain transfers, you can specify this using the `extensions.oft` option. For OFT tokens that require an adapter contract, you can specify the adapter address per chain.
+```json
+{
+  "name": "Token Name",
+  "symbol": "SYMBOL",
+  "decimals": 18,
+  "description": "A multi-chain token",
+  "website": "https://token.com",
+  "twitter": "@token",
+  "tokens": {
+    "ethereum": {
+      "address": "0x1234123412341234123412341234123412341234",
+      "adapter": "0x5678567856785678567856785678567856785678"
+    },
+    "mantle": {
+      "address": "0x2345234523452345234523452345234523452345",
+      "adapter": "0x6789678967896789678967896789678967896789"
+    }
+  },
+  "extensions": {
+    "oft": true
+  }
+}
+```
+- If your OFT token requires an adapter contract, include the `adapter` field in each chain's token configuration.
+- If your OFT token does not require an adapter, you can omit the `adapter` field.
+- The `extensions.oft` field should be set to `true` in your `data.json`.
+- When generated, tokens with adapters will have `extensions.oft = { adapter: "..." }`, while tokens without adapters will have `extensions.oft = true`.
+
 ### Create a pull request
 
 Open a [pull request](https://github.com/mantlenetworkio/mantle-token-lists/pulls) with the changes that you've made. Please only add one token per pull request to simplify the review process. This means two new files inside of one new folder. If you want to add multiple tokens, please open different PRs for each token.

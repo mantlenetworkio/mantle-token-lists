@@ -1,6 +1,6 @@
 {
   "name": "Tether USD",
-  "symbol": "USDT",
+  "symbol": "USDT (BRIDGED)",
   "decimals": 6,
   "description": "Bringing real world currency to the blockchain.",
   "website": "https://tether.to/",
