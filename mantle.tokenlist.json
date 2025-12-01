@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-08-28T07:57:50.063Z",
+  "timestamp": "2025-12-01T03:20:27.986Z",
   "tokens": [
     {
       "chainId": 5,
@@ -1692,7 +1692,7 @@
       "chainId": 1,
       "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "USDT (BRIDGED)",
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
@@ -1706,7 +1706,7 @@
       "chainId": 5000,
       "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "USDT (BRIDGED)",
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
@@ -1720,7 +1720,7 @@
       "chainId": 5,
       "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "USDT (BRIDGED)",
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
@@ -1734,7 +1734,7 @@
       "chainId": 5001,
       "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "USDT (BRIDGED)",
       "decimals": 6,
       "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
       "extensions": {
@@ -1742,6 +1742,38 @@
       },
       "tickers": {
         "coingecko": "tether"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "USDT0",
+      "symbol": "USDT (USDT0)",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT0/logo.svg",
+      "extensions": {
+        "oft": {
+          "adapter": "0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee"
+        }
+      },
+      "tickers": {
+        "coingecko": "usdt0"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "name": "USDT0",
+      "symbol": "USDT (USDT0)",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT0/logo.svg",
+      "extensions": {
+        "oft": {
+          "adapter": "0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC"
+        }
+      },
+      "tickers": {
+        "coingecko": "usdt0"
       }
     },
     {
