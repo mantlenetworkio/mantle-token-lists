@@ -1,5 +1,6 @@
 export interface Token {
   address: string
+  adapter?: string // OFT adapter address（optional, chain specific）
   overrides?: {
     bridge?: string
     name?: string
@@ -36,6 +37,7 @@ export interface TokenData {
       name: string
       url: string
     }
+    oft?: boolean // in data.json, symbol is USDT0
   }
 }
 

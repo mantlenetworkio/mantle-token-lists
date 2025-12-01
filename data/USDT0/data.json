@@ -1,0 +1,24 @@
+{
+  "name": "USDT0",
+  "symbol": "USDT (USDT0)",
+  "decimals": 6,
+  "description": "Unifying ecosystems, empowering growth.",
+  "website": "https://usdt0.to/",
+  "twitter": "@USDT0_to",
+  "tokens": {
+    "ethereum": {
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "adapter": "0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee"
+    },
+    "mantle": {
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "adapter": "0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC"
+    }
+  },
+  "extensions": {
+    "oft": true
+  },
+  "tickers": {
+    "coingecko": "usdt0"
+  }
+}

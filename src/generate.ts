@@ -38,6 +38,16 @@ export const generate = (datadir: string) => {
       return Object.entries(data.tokens).map(([chain, token]) => {
         const extensions: any = {}
         switch (true) {
+          case !!data?.extensions?.oft:
+            if (token.adapter) {
+              extensions.oft = {
+                adapter: token.adapter,
+              }
+            } else {
+              extensions.oft = true
+            }
+            break
+
           case !!data?.extensions?.thirdparty:
             extensions.thirdparty = data.extensions.thirdparty
             break
