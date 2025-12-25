@@ -1,0 +1,19 @@
+{
+  "name": "XAUt",
+  "symbol": "XAUt",
+  "decimals": 6,
+  "description": "XAUt is a digital token, backed by physical gold.",
+  "website": "https://gold.tether.to/",
+  "twitter": "@tethergold",
+  "tokens": {
+    "ethereum": {
+      "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38"
+    },
+    "mantle": {
+      "address": "0x6199CCd9273A1E0e41e2cC18d9dAcd1E9382F58E"
+    }
+  },
+  "tickers": {
+    "coingecko": "tether-gold"
+  }
+}
