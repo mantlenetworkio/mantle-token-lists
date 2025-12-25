@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-12-01T03:20:27.986Z",
+  "timestamp": "2025-12-25T06:28:42.105Z",
   "tokens": [
     {
       "chainId": 5,
@@ -1982,6 +1982,34 @@
       },
       "tickers": {
         "coingecko": "wrapped-steth"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+      "name": "XAUt",
+      "symbol": "XAUt",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/XAUt/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      },
+      "tickers": {
+        "coingecko": "tether-gold"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x6199CCd9273A1E0e41e2cC18d9dAcd1E9382F58E",
+      "name": "XAUt",
+      "symbol": "XAUt",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/XAUt/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "tether-gold"
       }
     }
   ],
