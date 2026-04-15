@@ -1,0 +1,25 @@
+{
+  "name": "USD1",
+  "symbol": "USD1",
+  "decimals": 18,
+  "description": "Digital dollar stablecoins that are accepted both on-chain and in the real world.",
+  "website": "https://worldlibertyfinancial.com",
+  "twitter": "@worldlibertyfi",
+  "tokens": {
+    "ethereum": {
+      "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+    },
+    "mantle": {
+      "address": "0x111111d2bf19e43c34263401e0cad979ed1cdb61"
+    }
+  },
+  "tickers": {
+    "coingecko": "usd1-wlfi"
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "World Liberty Financial Bridge",
+      "url": "https://worldlibertyfinancial.com/bridge"
+    }
+  }
+}
