@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2026-01-27T10:13:17.535Z",
+  "timestamp": "2026-04-15T10:54:12.320Z",
   "tokens": [
     {
       "chainId": 5,
@@ -1540,6 +1540,40 @@
       },
       "tickers": {
         "coingecko": "uniswap"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "name": "USD1",
+      "symbol": "USD1",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USD1/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "World Liberty Financial Bridge",
+          "url": "https://worldlibertyfinancial.com/bridge"
+        }
+      },
+      "tickers": {
+        "coingecko": "usd1-wlfi"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x111111d2bf19e43c34263401e0cad979ed1cdb61",
+      "name": "USD1",
+      "symbol": "USD1",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/USD1/logo.svg",
+      "extensions": {
+        "thirdparty": {
+          "name": "World Liberty Financial Bridge",
+          "url": "https://worldlibertyfinancial.com/bridge"
+        }
+      },
+      "tickers": {
+        "coingecko": "usd1-wlfi"
       }
     },
     {
