@@ -9,19 +9,21 @@ export const NETWORK_DATA = {
     pair: 'optimism',
     bridge: '0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012',
   },
-  goerli: {
-    id: 5,
-    name: 'Goerli',
-    provider: new ethers.providers.InfuraProvider('goerli'),
+  hoodi: {
+    id: 560048,
+    name: 'Hoodi',
+    provider: new ethers.providers.StaticJsonRpcProvider(
+      'https://0xrpc.io/hoodi'
+    ),
     layer: 1,
-    pair: 'mantle-goerli',
-    bridge: '0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330',
+    pair: 'mantle-hoodi',
+    bridge: '0x9A28426964b13791f07e9C19afe797b0c69a004c',
   },
-  'mantle-goerli': {
+  'mantle-hoodi': {
     id: 5001,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://rpc.testnet.mantle.xyz'
+      'https://rpc.hoodi.mantle.xyz'
     ),
     layer: 2,
     pair: 'mantle',
@@ -69,7 +71,7 @@ export const NETWORK_DATA = {
     id: 11155111,
     name: 'sepolia',
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://rpc.ankr.com/eth_sepolia'
+      'https://11155111.rpc.thirdweb.com'
     ),
     layer: 1,
     pair: 'mantle-sepolia',
@@ -79,7 +81,7 @@ export const NETWORK_DATA = {
     id: 5003,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://rpc-internal.sepolia.mantle.xyz'
+      'https://rpc.sepolia.mantle.xyz'
     ),
     layer: 2,
     pair: 'mantle',

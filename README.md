@@ -68,11 +68,17 @@ Add a file to your folder called `data.json` with the following format:
     "mantle": {
       "address": "0x2345234523452345234523452345234523452345"
     },
-    "goerli": {
+    "sepolia": {
       "address": "0x5678567856785678567856785678567856785678"
     },
-    "mantle-goerli": {
+    "mantle-sepolia": {
       "address": "0x6789678967896789678967896789678967896789"
+    },
+    "hoodi": {
+      "address": "0x7890789078907890789078907890789078907890"
+    },
+    "mantle-hoodi": {
+      "address": "0x8901890189018901890189018901890189018901"
     }
   }
 }
@@ -83,8 +89,10 @@ We currently accept tokens on the following chains:
 
 - `ethereum`
 - `mantle`
-- `goerli`
-- `mantle-goerli`
+- `sepolia`
+- `mantle-sepolia`
+- `hoodi`
+- `mantle-hoodi`
 
 #### Non-bridgable tokens
 

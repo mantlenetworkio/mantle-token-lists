@@ -9,12 +9,6 @@
     "mantle": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     },
-    "goerli": {
-      "address": "0xc1dC2d65A2243c22344E725677A3E3BEBD26E604"
-    },
-    "mantle-goerli": {
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
-    },
     "sepolia": {
       "address": "0x65e37B558F64E2Be5768DB46DF22F93d85741A9E"
     },
@@ -28,6 +22,12 @@
       "address": "0x9c38b8ba2fdbf2f2414df70ed62d93ca492158e6"
     },
     "mantle-sepolia": {
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+    },
+    "hoodi": {
+      "address": "0xb57837B4D0d372bF49E69Bc36c36d9Cc9488bf18"
+    },
+    "mantle-hoodi": {
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
   },
