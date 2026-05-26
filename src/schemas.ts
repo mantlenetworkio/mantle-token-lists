@@ -8,6 +8,7 @@ export const TOKEN_SCHEMA = {
   type: 'object',
   properties: {
     address: ADDRESS_TYPE,
+    adapter: ADDRESS_TYPE,
     overrides: {
       bridge: ADDRESS_TYPE,
       name: {
@@ -56,92 +57,48 @@ export const TOKEN_DATA_SCHEMA = {
       type: 'string',
     },
     tokens: {
-      oneOf: [
-        {
+      type: 'object',
+      properties: {
+        ethereum: TOKEN_SCHEMA,
+        mantle: TOKEN_SCHEMA,
+        hoodi: TOKEN_SCHEMA,
+        'mantle-hoodi': TOKEN_SCHEMA,
+        sepolia: TOKEN_SCHEMA,
+        'mantle-sepolia': TOKEN_SCHEMA,
+        bsc: TOKEN_SCHEMA,
+        'bsc-testnet': TOKEN_SCHEMA,
+        hyperliquid: TOKEN_SCHEMA,
+        'hyperliquid-testnet': TOKEN_SCHEMA,
+      },
+      additionalProperties: false,
+    },
+    tickers: {
+      type: 'object',
+      properties: {
+        coingecko: { type: 'string' },
+      },
+      additionalProperties: false,
+    },
+    extensions: {
+      type: 'object',
+      properties: {
+        thirdparty: {
           type: 'object',
           properties: {
-            ethereum: TOKEN_SCHEMA,
-            optimism: TOKEN_SCHEMA,
-            kovan: TOKEN_SCHEMA,
-            'optimism-kovan': TOKEN_SCHEMA,
+            name: { type: 'string' },
+            url: { type: 'string' },
           },
-          additionalProperties: false,
-          required: ['ethereum', 'optimism', 'kovan', 'optimism-kovan'],
         },
-        {
+        external: {
           type: 'object',
           properties: {
-            ethereum: TOKEN_SCHEMA,
-            optimism: TOKEN_SCHEMA,
-            goerli: TOKEN_SCHEMA,
-            'optimism-goerli': TOKEN_SCHEMA,
+            name: { type: 'string' },
+            url: { type: 'string' },
           },
-          additionalProperties: false,
-          required: ['ethereum', 'optimism', 'goerli', 'optimism-goerli'],
         },
-        {
-          type: 'object',
-          properties: {
-            ethereum: TOKEN_SCHEMA,
-            optimism: TOKEN_SCHEMA,
-            kovan: TOKEN_SCHEMA,
-            'optimism-kovan': TOKEN_SCHEMA,
-            goerli: TOKEN_SCHEMA,
-            'optimism-goerli': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: [
-            'ethereum',
-            'optimism',
-            'kovan',
-            'optimism-kovan',
-            'goerli',
-            'optimism-goerli',
-          ],
-        },
-        {
-          type: 'object',
-          properties: {
-            optimism: TOKEN_SCHEMA,
-            'optimism-kovan': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['optimism', 'optimism-kovan'],
-        },
-        {
-          type: 'object',
-          properties: {
-            'mantle-goerli': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['mantle-goerli'],
-        },
-        {
-          type: 'object',
-          properties: {
-            'mantle-goerli': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['mantle-goerli'],
-        },
-        {
-          type: 'object',
-          properties: {
-            goerli: TOKEN_SCHEMA,
-            'optimism-goerli': TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['goerli', 'mantle-goerli'],
-        },
-        {
-          type: 'object',
-          properties: {
-            optimism: TOKEN_SCHEMA,
-          },
-          additionalProperties: false,
-          required: ['Mantle'],
-        },
-      ],
+        oft: { type: 'boolean' },
+      },
+      additionalProperties: false,
     },
   },
   additionalProperties: false,

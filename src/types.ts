@@ -20,8 +20,8 @@ export interface TokenData {
   website: string
   tokens: {
     ethereum?: Token
-    'mantle-goerli'?: Token
-    goerli?: Token
+    hoodi?: Token
+    'mantle-hoodi'?: Token
     sepolia?: Token
     'mantle-sepolia'?: Token
   }

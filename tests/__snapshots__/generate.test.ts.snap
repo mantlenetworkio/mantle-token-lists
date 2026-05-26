@@ -13,14 +13,15 @@ Object {
   "tokens": Array [
     Object {
       "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 5,
+      "chainId": 560048,
       "decimals": 18,
       "extensions": Object {
-        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
+        "optimismBridgeAddress": "0x9A28426964b13791f07e9C19afe797b0c69a004c",
       },
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "name": "Ether",
       "symbol": "ETH",
+      "tickers": undefined,
     },
     Object {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
@@ -32,33 +33,12 @@ Object {
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "name": "Ether",
       "symbol": "ETH",
-    },
-    Object {
-      "address": "0x5a94Dc6cc85fdA49d8E9A8b85DDE8629025C42be",
-      "chainId": 5,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x1050ec8fC7eB534c5Be07F4a0FF8641D821eE821",
-      },
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.png",
-      "name": "Mantle",
-      "symbol": "BIT",
-    },
-    Object {
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "chainId": 5001,
-      "decimals": 18,
-      "extensions": Object {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      },
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.png",
-      "name": "Mantle",
-      "symbol": "BIT",
+      "tickers": undefined,
     },
   ],
   "version": Object {
-    "major": 4,
-    "minor": 3,
+    "major": 1,
+    "minor": 0,
     "patch": 0,
   },
 }

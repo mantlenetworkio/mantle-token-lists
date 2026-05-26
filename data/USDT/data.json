@@ -11,12 +11,6 @@
     },
     "mantle": {
       "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE"
-    },
-    "goerli": {
-      "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49"
-    },
-    "mantle-goerli": {
-      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F"
     }
   },
   "tickers": {

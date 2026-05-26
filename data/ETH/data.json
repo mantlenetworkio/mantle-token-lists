@@ -9,16 +9,16 @@
     "mantle": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     },
-    "goerli": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "mantle-goerli": {
-      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
-    },
     "sepolia": {
       "address": "0x0000000000000000000000000000000000000000"
     },
     "mantle-sepolia": {
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+    },
+    "hoodi": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "mantle-hoodi": {
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
     }
   },
