@@ -17,7 +17,7 @@ export const NETWORK_DATA = {
     ),
     layer: 1,
     pair: 'mantle-hoodi',
-    bridge: '0x9A28426964b13791f07e9C19afe797b0c69a004c',
+    bridge: '0x0B2333ecb334b2CBDA5C1eC6a54e86e895A4af86',
   },
   'mantle-hoodi': {
     id: 50002,
