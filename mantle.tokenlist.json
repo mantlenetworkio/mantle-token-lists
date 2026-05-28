@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2026-05-28T07:10:59.113Z",
+  "timestamp": "2026-05-28T09:02:17.745Z",
   "tokens": [
     {
       "chainId": 1,
@@ -566,7 +566,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x9A28426964b13791f07e9C19afe797b0c69a004c"
+        "optimismBridgeAddress": "0x0B2333ecb334b2CBDA5C1eC6a54e86e895A4af86"
       },
       "tickers": {
         "coingecko": "ethereum"
@@ -928,7 +928,7 @@
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "extensions": {
-        "optimismBridgeAddress": "0x9A28426964b13791f07e9C19afe797b0c69a004c"
+        "optimismBridgeAddress": "0x0B2333ecb334b2CBDA5C1eC6a54e86e895A4af86"
       },
       "tickers": {
         "coingecko": "mantle"
