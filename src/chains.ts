@@ -20,7 +20,7 @@ export const NETWORK_DATA = {
     bridge: '0x9A28426964b13791f07e9C19afe797b0c69a004c',
   },
   'mantle-hoodi': {
-    id: 5001,
+    id: 50002,
     name: 'mantle',
     provider: new ethers.providers.StaticJsonRpcProvider(
       'https://rpc.hoodi.mantle.xyz'
