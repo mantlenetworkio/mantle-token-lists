@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2026-05-26T02:29:05.571Z",
+  "timestamp": "2026-05-28T07:10:59.113Z",
   "tokens": [
     {
       "chainId": 1,
@@ -573,7 +573,7 @@
       }
     },
     {
-      "chainId": 5001,
+      "chainId": 50002,
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
       "name": "Ether",
       "symbol": "ETH",
@@ -935,7 +935,7 @@
       }
     },
     {
-      "chainId": 5001,
+      "chainId": 50002,
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "name": "Mantle",
       "symbol": "MNT",
