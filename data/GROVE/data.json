@@ -1,0 +1,19 @@
+{
+  "name": "Grove",
+  "symbol": "GROVE",
+  "decimals": 18,
+  "description": "Grove is the institutional-grade infrastructure growing credit, capital markets, and demand for onchain finance.",
+  "website": "https://grove.finance/",
+  "twitter": "@grovedotfinance",
+  "tokens": {
+    "ethereum": {
+      "address": "0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406"
+    },
+    "mantle": {
+      "address": "0x1D225296cD421aA65b2B9A68A971D7Bf912FC5F1"
+    }
+  },
+  "tickers": {
+    "coingecko": "grove-2"
+  }
+}
