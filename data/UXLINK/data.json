@@ -1,0 +1,19 @@
+{
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "description": "UXLINK Governance Token, $UXLINK is to realize governance and capture benefits from UXLINK project and products.",
+    "website": "https://www.uxlink.io",
+    "twitter": "@UXLINKofficial",
+    "tokens": {
+      "mantle-sepolia": {
+        "address": "0xe16283bf4b6d061566B4201a7e4cB2eec4eE9a11"
+      },
+      "mantle": {
+        "address": "0x482deB2F7B9608a80eA91E71F06380E9891501C6"
+      }
+    },
+    "tickers": {
+        "coingecko": "uxlink"
+    }
+}
