@@ -1,0 +1,24 @@
+{
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "decimals": 6,
+  "description": "Global Dollar (USDG) is a single-currency stablecoin pegged to the US dollar, fully redeemable from Paxos on a one-to-one basis for US dollars.",
+  "website": "https://globaldollar.com/",
+  "twitter": "@global_dollar",
+  "tokens": {
+    "ethereum": {
+      "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+      "adapter": "0x147BdE4F997f0d4C7544ED0C55eAcf1E5E6bf9c4"
+    },
+    "mantle": {
+      "address": "0x063C1d1ef6e9099Ce3E8e9AD5C6173d12C49C086",
+      "adapter": "0x397dfb068F773022e25A28bb934CF4C8CF78dC45"
+    }
+  },
+  "extensions": {
+    "oft": true
+  },
+  "tickers": {
+    "coingecko": "global-dollar"
+  }
+}
