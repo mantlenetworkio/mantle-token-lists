@@ -11,6 +11,12 @@
     },
     "mantle": {
       "address": "0x1D225296cD421aA65b2B9A68A971D7Bf912FC5F1"
+    },
+    "sepolia": {
+      "address": "0x0f130181dCfDF36A38C901B52a294f3E922BFCd0"
+    },
+    "mantle-sepolia": {
+      "address": "0x2845A3E52d5E81B10162c9740F111ba2ffdA53AC"
     }
   },
   "tickers": {
