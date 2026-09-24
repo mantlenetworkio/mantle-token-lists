@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2026-08-04T06:24:27.608Z",
+  "timestamp": "2026-09-24T08:21:55.376Z",
   "tokens": [
     {
       "chainId": 1,
@@ -665,6 +665,34 @@
     {
       "chainId": 5000,
       "address": "0x1D225296cD421aA65b2B9A68A971D7Bf912FC5F1",
+      "name": "Grove",
+      "symbol": "GROVE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/GROVE/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      },
+      "tickers": {
+        "coingecko": "grove-2"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x0f130181dCfDF36A38C901B52a294f3E922BFCd0",
+      "name": "Grove",
+      "symbol": "GROVE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/GROVE/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x21F308067241B2028503c07bd7cB3751FFab0Fb2"
+      },
+      "tickers": {
+        "coingecko": "grove-2"
+      }
+    },
+    {
+      "chainId": 5003,
+      "address": "0x2845A3E52d5E81B10162c9740F111ba2ffdA53AC",
       "name": "Grove",
       "symbol": "GROVE",
       "decimals": 18,
