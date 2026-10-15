@@ -17,6 +17,12 @@
     },
     "mantle-sepolia": {
       "address": "0x2845A3E52d5E81B10162c9740F111ba2ffdA53AC"
+    },
+    "hoodi": {
+      "address": "0x0f130181dCfDF36A38C901B52a294f3E922BFCd0"
+    },
+    "mantle-hoodi": {
+      "address": "0xA4A1BbE8b68B6e6a89f8fb4Be00ED7C09641C919"
     }
   },
   "tickers": {
