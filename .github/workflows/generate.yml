@@ -3,12 +3,16 @@ name: Generate Token List
 on:
   push:
     branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     name: generate
     if: |
-      github.event.head_commit.committer.username != 'github-actions[bot]'
+      github.event.head_commit.author.username != 'github-actions[bot]'
         && github.repository == 'mantlenetworkio/mantle-token-lists'
 
     runs-on: ubuntu-latest
@@ -19,9 +23,10 @@ jobs:
  #         token: ${{ secrets.PAT }}
  #         fetch-depth: 0
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: main
+          persist-credentials: false
 
       - name: Use Node.js 16.x
         uses: actions/setup-node@v2
@@ -47,8 +52,23 @@ jobs:
         run: |
           yarn generate --datadir ./data --outfile mantle.tokenlist.json
 
+      # The org ruleset requires verified signatures, which a git push from the runner can't provide.
+      # GitHub signs commits made through the contents API with GITHUB_TOKEN, as long as no custom
+      # author or committer is set.
       - name: Commit token list
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "bot(ci): generate token list"
-          file_pattern: mantle.tokenlist.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- mantle.tokenlist.json; then
+            echo "mantle.tokenlist.json is unchanged"
+            exit 0
+          fi
+          base64 -w0 mantle.tokenlist.json > "$RUNNER_TEMP/content.b64"
+          jq -n \
+            --arg message 'bot(ci): generate token list' \
+            --rawfile content "$RUNNER_TEMP/content.b64" \
+            --arg sha "$(git rev-parse HEAD:mantle.tokenlist.json)" \
+            --arg branch main \
+            '{message: $message, content: $content, sha: $sha, branch: $branch}' \
+          | gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/mantle.tokenlist.json" --input - \
+              --jq '.commit | "\(.html_url) verified=\(.verification.verified)"'
